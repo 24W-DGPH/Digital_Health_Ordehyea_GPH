@@ -1,0 +1,801 @@
+"ID","Gender","Age_years","Age_group","HbA1c","Diabetes_status","BMI","BMI_group","Cholesterol","Cholesterol_group","Triglycerides","Triglyceride_group","LDL","LDL_group","HDL","HDL_group","VLDL","Urea","Creatinine"
+502,"F",50,"46-55",4.9,"Non-Diabetic",24,"Normal Range",4.2,"Normal",0.9,"Normal",1.4,"Optimal (High Risk)",2.4,"Best",0.5,4.7,46
+735,"M",26,"26-35",4.9,"Non-Diabetic",23,"Normal Range",3.7,"Normal",1.4,"Normal",2.1,"Optimal",1.1,"Better",0.6,4.5,62
+420,"F",50,"46-55",4.9,"Non-Diabetic",24,"Normal Range",4.2,"Normal",0.9,"Normal",1.4,"Optimal (High Risk)",2.4,"Best",0.5,4.7,46
+680,"F",50,"46-55",4.9,"Non-Diabetic",24,"Normal Range",4.2,"Normal",0.9,"Normal",1.4,"Optimal (High Risk)",2.4,"Best",0.5,4.7,46
+504,"M",33,"26-35",4.9,"Non-Diabetic",21,"Normal Range",4.9,"Normal",1,"Normal",2,"Optimal",0.8,"Poor",0.4,7.1,46
+634,"F",45,"36-45",4,"Non-Diabetic",21,"Normal Range",2.9,"Normal",1,"Normal",1.5,"Optimal (High Risk)",1,"Poor",0.4,2.3,24
+721,"F",50,"46-55",4,"Non-Diabetic",24,"Normal Range",3.6,"Normal",1.3,"Normal",2.1,"Optimal",0.9,"Poor",0.6,2,50
+421,"M",48,"46-55",4,"Non-Diabetic",24,"Normal Range",2.9,"Normal",0.8,"Normal",1.6,"Optimal (High Risk)",0.9,"Poor",0.4,4.7,47
+670,"M",43,"36-45",4,"Non-Diabetic",21,"Normal Range",3.8,"Normal",0.9,"Normal",3.7,"Borderline High",2.4,"Best",1,2.6,67
+759,"F",32,"26-35",4,"Non-Diabetic",24,"Normal Range",3.8,"Normal",2,"Mildly Increased",3.8,"Borderline High",2.4,"Best",1,3.6,28
+636,"F",31,"26-35",4.2,"Non-Diabetic",23,"Normal Range",3.6,"Normal",0.7,"Normal",1.6,"Optimal (High Risk)",1.7,"Best",0.3,4.4,55
+788,"F",33,"26-35",4,"Non-Diabetic",21,"Normal Range",4,"Normal",1.1,"Normal",2.7,"Near Optimal",0.9,"Poor",1,3.3,53
+82,"F",30,"26-35",4.1,"Non-Diabetic",22,"Normal Range",4.9,"Normal",1.3,"Normal",3.2,"Near Optimal",1.2,"Poor",0.5,3,42
+132,"F",45,"36-45",5.1,"Non-Diabetic",23,"Normal Range",4.2,"Normal",1.7,"Normal",2.2,"Optimal",1.2,"Poor",0.8,4.6,54
+402,"F",50,"46-55",4,"Non-Diabetic",24,"Normal Range",4,"Normal",1.5,"Normal",2.2,"Optimal",1.2,"Poor",0.7,3.5,39
+566,"M",50,"46-55",5,"Non-Diabetic",21,"Normal Range",3.6,"Normal",1.1,"Normal",2.1,"Optimal",1,"Better",0.5,5.5,74
+596,"F",50,"46-55",5.4,"Non-Diabetic",21,"Normal Range",5.3,"Borderline High",0.8,"Normal",4.1,"Borderline High",1.1,"Poor",0.3,5.9,53
+676,"F",30,"26-35",4.1,"Non-Diabetic",22,"Normal Range",4.9,"Normal",1.3,"Normal",3.2,"Near Optimal",1.2,"Poor",0.5,3,42
+729,"F",49,"46-55",4.1,"Non-Diabetic",24,"Normal Range",5,"Normal",1.3,"Normal",3.3,"Near Optimal",1.2,"Poor",0.6,2.2,28
+742,"F",49,"46-55",4,"Non-Diabetic",23,"Normal Range",4.4,"Normal",0.9,"Normal",1.3,"Optimal (High Risk)",1,"Poor",0.4,3.8,55
+64,"F",49,"46-55",5.1,"Non-Diabetic",24,"Normal Range",0.5,"Normal",1.9,"Mildly Increased",2.8,"Near Optimal",1.3,"Better",0.8,13.5,175
+97,"F",42,"36-45",4.5,"Non-Diabetic",24,"Normal Range",6.2,"High",1,"Normal",4.6,"High",1.1,"Poor",0.4,5,73
+126,"F",33,"26-35",5,"Non-Diabetic",24,"Normal Range",4.2,"Normal",1.5,"Normal",2.3,"Optimal",1.2,"Poor",0.6,5.3,62
+390,"M",50,"46-55",5.3,"Non-Diabetic",23,"Normal Range",4.8,"Normal",1,"Normal",3.6,"Borderline High",0.9,"Poor",0.4,4,28
+458,"F",39,"36-45",5,"Non-Diabetic",21,"Normal Range",4.6,"Normal",1.3,"Normal",3,"Near Optimal",1,"Poor",0.6,3.2,55
+470,"F",30,"26-35",4.1,"Non-Diabetic",22,"Normal Range",4.9,"Normal",1.3,"Normal",3.2,"Near Optimal",1.2,"Poor",0.5,3,45
+494,"M",30,"26-35",5.5,"Non-Diabetic",19,"Normal Range",5.5,"Borderline High",1.8,"Mildly Increased",3.5,"Borderline High",1.2,"Better",0.8,4.8,80
+564,"M",41,"36-45",4,"Non-Diabetic",22,"Normal Range",2.8,"Normal",2.9,"Mildly Increased",3.8,"Borderline High",0.8,"Poor",1.3,4.2,99
+696,"M",33,"26-35",5.4,"Non-Diabetic",22,"Normal Range",3.7,"Normal",1.3,"Normal",2.4,"Optimal",0.8,"Poor",0.6,2,54
+106,"F",44,"36-45",4,"Non-Diabetic",22,"Normal Range",5.6,"Borderline High",1.4,"Normal",3.6,"Borderline High",1.4,"Better",0.6,4.3,49
+138,"F",48,"46-55",5.4,"Non-Diabetic",23,"Normal Range",3.2,"Normal",1.8,"Mildly Increased",0.9,"Optimal (High Risk)",1.6,"Best",0.8,7.5,82
+315,"M",47,"46-55",4.3,"Non-Diabetic",24,"Normal Range",4.6,"Normal",0.8,"Normal",4.2,"High",0.9,"Poor",4.1,4.6,55
+650,"M",36,"36-45",5,"Non-Diabetic",22,"Normal Range",3.6,"Normal",0.7,"Normal",1.9,"Optimal",1.3,"Better",5,3.8,70
+678,"F",42,"36-45",4.5,"Non-Diabetic",24,"Normal Range",6.2,"High",1,"Normal",4.6,"High",1.1,"Poor",0.4,5,73
+699,"F",47,"46-55",5.1,"Non-Diabetic",23,"Normal Range",6.5,"High",1.5,"Normal",4.9,"High",0.9,"Poor",0.7,5.6,67
+703,"F",39,"36-45",4,"Non-Diabetic",22,"Normal Range",4,"Normal",0.6,"Normal",2.6,"Optimal",1.1,"Poor",0.3,6,67
+708,"F",38,"36-45",5.1,"Non-Diabetic",21,"Normal Range",3,"Normal",1.2,"Normal",2,"Optimal",0.6,"Poor",0.5,2,20
+719,"M",46,"46-55",5.4,"Non-Diabetic",21,"Normal Range",3.7,"Normal",1.3,"Normal",2.4,"Optimal",0.8,"Poor",0.6,2,54
+740,"M",44,"36-45",5,"Non-Diabetic",24,"Normal Range",3.7,"Normal",1.5,"Normal",2,"Optimal",1.1,"Better",0.7,3.8,74
+741,"F",41,"36-45",4,"Non-Diabetic",23,"Normal Range",4.4,"Normal",1.6,"Normal",3,"Near Optimal",0.8,"Poor",0.7,3.4,48
+746,"F",45,"36-45",4.8,"Non-Diabetic",24,"Normal Range",3.8,"Normal",0.7,"Normal",2.2,"Optimal",1.3,"Better",0.3,4.7,31
+794,"F",44,"36-45",5.5,"Non-Diabetic",21,"Normal Range",9.5,"High",1.7,"Normal",2.5,"Optimal",1.3,"Better",0.6,3,39
+219,"M",33,"26-35",5.4,"Non-Diabetic",22,"Normal Range",3.7,"Normal",1.3,"Normal",2.4,"Optimal",0.8,"Poor",0.6,2,54
+255,"M",43,"36-45",4.3,"Non-Diabetic",21,"Normal Range",4.7,"Normal",1.9,"Mildly Increased",2.6,"Optimal",1.4,"Better",0.8,4.1,44
+450,"F",33,"26-35",5,"Non-Diabetic",24,"Normal Range",4.2,"Normal",1.4,"Normal",2.6,"Optimal",1.3,"Better",0.7,2.7,47
+626,"M",49,"46-55",4.7,"Non-Diabetic",21,"Normal Range",5.2,"Borderline High",1.1,"Normal",1.4,"Optimal (High Risk)",0.9,"Poor",0.7,5.7,74
+664,"M",31,"26-35",3.7,"Non-Diabetic",23,"Normal Range",4.3,"Normal",2.1,"Mildly Increased",2.4,"Optimal",1,"Better",14.5,3.6,67
+704,"M",49,"46-55",5,"Non-Diabetic",24,"Normal Range",4.7,"Normal",1.8,"Mildly Increased",3.3,"Near Optimal",0.7,"Poor",0.8,3.8,60
+799,"F",44,"36-45",5.5,"Non-Diabetic",21,"Normal Range",9.5,"High",1.7,"Normal",2.5,"Optimal",1.3,"Better",0.6,3,39
+210,"F",47,"46-55",5,"Non-Diabetic",22,"Normal Range",4.7,"Normal",1.6,"Normal",2.4,"Optimal",1,"Poor",0.7,3.7,48
+237,"M",44,"36-45",4,"Non-Diabetic",24,"Normal Range",4.9,"Normal",1.7,"Normal",2.8,"Near Optimal",1.4,"Better",0.8,3.1,49
+318,"F",45,"36-45",4,"Non-Diabetic",22,"Normal Range",4.3,"Normal",0.9,"Normal",4.2,"High",1.1,"Poor",0.4,4,57
+620,"M",43,"36-45",5,"Non-Diabetic",21,"Normal Range",4.8,"Normal",1.9,"Mildly Increased",3,"Near Optimal",1.1,"Better",0.8,2.4,40
+640,"F",47,"46-55",5.4,"Non-Diabetic",20,"Normal Range",4.1,"Normal",0.7,"Normal",2.8,"Near Optimal",1.7,"Best",0.7,3.3,53
+668,"F",50,"46-55",5,"Non-Diabetic",24,"Normal Range",3.9,"Normal",0.7,"Normal",0.3,"Optimal (High Risk)",2.3,"Best",0.4,4.4,69
+701,"F",50,"46-55",4.5,"Non-Diabetic",23,"Normal Range",3.2,"Normal",0.8,"Normal",1.7,"Optimal (High Risk)",1.2,"Poor",0.3,5.4,52
+174,"F",49,"46-55",5,"Non-Diabetic",22,"Normal Range",3.1,"Normal",1.3,"Normal",2.5,"Optimal",1,"Poor",0.7,2.3,52
+276,"F",50,"46-55",4.5,"Non-Diabetic",22,"Normal Range",3.4,"Normal",0.7,"Normal",2,"Optimal",1.1,"Poor",0.3,4.5,32
+345,"F",49,"46-55",5,"Non-Diabetic",21,"Normal Range",4.2,"Normal",0.8,"Normal",3,"Near Optimal",0.9,"Poor",0.4,2.1,38
+482,"F",44,"36-45",4.1,"Non-Diabetic",21,"Normal Range",5.2,"Borderline High",1.5,"Normal",3.5,"Borderline High",1,"Poor",0.7,3.9,42
+630,"F",48,"46-55",5,"Non-Diabetic",23.5,"Normal Range",3.6,"Normal",0.6,"Normal",1.2,"Optimal (High Risk)",2.1,"Best",0.2,2.8,55
+789,"M",47,"46-55",4.2,"Non-Diabetic",23,"Normal Range",4,"Normal",1.3,"Normal",2.6,"Optimal",0.9,"Poor",1,4,45
+348,"M",47,"46-55",4.3,"Non-Diabetic",24,"Normal Range",4.3,"Normal",2.3,"Mildly Increased",2.4,"Optimal",0.9,"Poor",1,7.6,85
+7,"M",44,"36-45",4.9,"Non-Diabetic",21,"Normal Range",4.9,"Normal",2.8,"Mildly Increased",1.8,"Optimal (High Risk)",2,"Best",1.2,6.8,64
+9,"F",35,"26-35",5.4,"Non-Diabetic",22,"Normal Range",3.8,"Normal",5.9,"Moderately Increased",4.3,"High",0.5,"Poor",1,3.9,38
+10,"M",40,"36-45",4,"Non-Diabetic",23,"Normal Range",4.8,"Normal",2.5,"Mildly Increased",2.7,"Near Optimal",1.1,"Better",1.1,5,63
+42,"F",35,"26-35",5,"Non-Diabetic",20,"Normal Range",4.7,"Normal",2.5,"Mildly Increased",2.4,"Optimal",1.3,"Better",1.1,2.8,50
+47,"F",42,"36-45",4.9,"Non-Diabetic",21,"Normal Range",3,"Normal",1.1,"Normal",1.4,"Optimal (High Risk)",1.1,"Poor",1.4,2.1,45
+71,"M",59,"56-65",5.4,"Non-Diabetic",23,"Normal Range",4.9,"Normal",1.2,"Normal",3.4,"Borderline High",0.9,"Poor",0.6,5.2,38
+72,"F",31,"26-35",5.4,"Non-Diabetic",22,"Normal Range",4.4,"Normal",1.8,"Mildly Increased",2.6,"Optimal",1.1,"Poor",0.8,3.9,6
+83,"M",40,"36-45",5.6,"Non-Diabetic",22,"Normal Range",7.6,"High",1.3,"Normal",3.4,"Borderline High",0.9,"Poor",1.3,4.7,40
+88,"M",41,"36-45",4.3,"Non-Diabetic",21,"Normal Range",3.2,"Normal",4.5,"Mildly Increased",1.8,"Optimal (High Risk)",1.3,"Better",1.1,3.8,48
+89,"F",41,"36-45",4,"Non-Diabetic",21,"Normal Range",3.4,"Normal",1.2,"Normal",1.1,"Optimal (High Risk)",1.7,"Best",0.5,2,39
+96,"F",43,"36-45",4.3,"Non-Diabetic",24.5,"Normal Range",4.1,"Normal",1.1,"Normal",2.4,"Optimal",1.2,"Poor",1.3,4,54
+98,"F",44,"36-45",4.2,"Non-Diabetic",21,"Normal Range",3.4,"Normal",1.3,"Normal",1.5,"Optimal (High Risk)",1.3,"Better",0.6,4.4,56
+99,"M",59,"56-65",4.1,"Non-Diabetic",24,"Normal Range",6.3,"High",0.6,"Normal",4.9,"High",1.1,"Better",1.1,4.7,58
+102,"F",35,"26-35",5,"Non-Diabetic",23,"Normal Range",4.1,"Normal",1.9,"Mildly Increased",1.3,"Optimal (High Risk)",4,"Best",0.7,3.3,44
+134,"F",30,"26-35",5.4,"Non-Diabetic",24,"Normal Range",6.5,"High",1.8,"Mildly Increased",4.2,"High",1.5,"Better",0.8,3.6,61
+137,"F",50,"46-55",5,"Non-Diabetic",21,"Normal Range",4.4,"Normal",2.7,"Mildly Increased",3.1,"Near Optimal",1.3,"Better",1.1,6,61
+139,"F",50,"46-55",4,"Non-Diabetic",22,"Normal Range",4.5,"Normal",1.2,"Normal",4.1,"Borderline High",1.8,"Best",1.2,6.3,88
+141,"F",35,"26-35",5.3,"Non-Diabetic",24,"Normal Range",4.3,"Normal",1.3,"Normal",1.3,"Optimal (High Risk)",0.8,"Poor",1,3.6,61
+143,"M",63,"56-65",4.3,"Non-Diabetic",20,"Normal Range",4.8,"Normal",1.7,"Normal",3,"Near Optimal",1.1,"Better",0.7,6.6,106
+144,"M",36,"36-45",4.2,"Non-Diabetic",20,"Normal Range",4.9,"Normal",2.5,"Mildly Increased",1.9,"Optimal",0.9,"Poor",0.7,3.3,70
+145,"M",50,"46-55",4,"Non-Diabetic",21,"Normal Range",2,"Normal",1.2,"Normal",3,"Near Optimal",1.3,"Better",0.8,5.8,61
+147,"F",25,"0-25",4,"Non-Diabetic",22,"Normal Range",4.3,"Normal",3.5,"Mildly Increased",1.3,"Optimal (High Risk)",0.8,"Poor",0.8,10,35
+149,"F",40,"36-45",4.5,"Non-Diabetic",24,"Normal Range",4.6,"Normal",1.5,"Normal",3,"Near Optimal",0.7,"Poor",0.6,5.8,123
+150,"F",40,"36-45",4.9,"Non-Diabetic",22,"Normal Range",4.3,"Normal",0.8,"Normal",1.8,"Optimal (High Risk)",0.8,"Poor",1.2,6.3,79
+153,"M",50,"46-55",5.4,"Non-Diabetic",21,"Normal Range",3.2,"Normal",1.8,"Mildly Increased",0.9,"Optimal (High Risk)",1.6,"Best",0.8,5.5,97
+154,"M",30,"26-35",5.6,"Non-Diabetic",24.5,"Normal Range",3.9,"Normal",1.6,"Normal",3.3,"Near Optimal",0.9,"Poor",0.8,5.5,79
+157,"M",50,"46-55",5.4,"Non-Diabetic",22,"Normal Range",3.8,"Normal",5.9,"Moderately Increased",4.3,"High",0.5,"Poor",1.3,9.6,203
+161,"F",60,"56-65",0.9,"Non-Diabetic",24,"Normal Range",3.4,"Normal",5.3,"Mildly Increased",3.6,"Borderline High",1.1,"Poor",0.8,7.5,70
+165,"F",77,"66-80",5.4,"Non-Diabetic",24,"Normal Range",3.9,"Normal",2.1,"Mildly Increased",4.2,"High",1.2,"Poor",1.1,5,106
+166,"F",44,"36-45",4.3,"Non-Diabetic",21,"Normal Range",5.2,"Borderline High",1.9,"Mildly Increased",3,"Near Optimal",2.5,"Best",0.7,7.3,132
+171,"M",40,"36-45",5.4,"Non-Diabetic",24,"Normal Range",3.1,"Normal",1.6,"Normal",1.3,"Optimal (High Risk)",1.1,"Better",0.7,22,159
+180,"F",54,"46-55",5.6,"Non-Diabetic",20,"Normal Range",4.3,"Normal",2,"Mildly Increased",2.2,"Optimal",1.3,"Better",0.9,6.3,106
+181,"F",50,"46-55",4.9,"Non-Diabetic",24,"Normal Range",3.7,"Normal",0.9,"Normal",2.7,"Near Optimal",1.2,"Poor",0.6,3.3,70
+182,"M",60,"56-65",0.9,"Non-Diabetic",24,"Normal Range",3.4,"Normal",5.3,"Mildly Increased",3.6,"Borderline High",1.1,"Better",0.8,7.5,70
+186,"M",77,"66-80",5.4,"Non-Diabetic",19,"Normal Range",0,"Normal",2.8,"Mildly Increased",1.8,"Optimal (High Risk)",0.8,"Poor",0.7,5,106
+190,"F",59,"56-65",4.1,"Non-Diabetic",22.5,"Normal Range",4.5,"Normal",1.8,"Mildly Increased",1.8,"Optimal (High Risk)",1.8,"Best",1.3,4.7,58
+197,"F",57,"56-65",0.9,"Non-Diabetic",22,"Normal Range",3.2,"Normal",1.3,"Normal",3,"Near Optimal",0.9,"Poor",1.1,4.6,97
+435,"M",38,"36-45",5.4,"Non-Diabetic",24.6,"Normal Range",4.5,"Normal",1.7,"Normal",2.8,"Near Optimal",0.9,"Poor",0.8,6.1,83
+472,"M",34,"26-35",6,"Pre-Diabetic",23,"Normal Range",6.2,"High",3.9,"Mildly Increased",1.9,"Optimal",0.8,"Poor",1.8,3.9,81
+85,"M",34,"26-35",6,"Pre-Diabetic",23,"Normal Range",6.2,"High",3.9,"Mildly Increased",3.8,"Borderline High",0.8,"Poor",1.8,3.9,81
+710,"M",34,"26-35",6,"Pre-Diabetic",23,"Normal Range",6.2,"High",3.9,"Mildly Increased",3.8,"Borderline High",0.8,"Poor",1.8,3.9,81
+429,"M",31,"26-35",5.7,"Pre-Diabetic",24,"Normal Range",4.9,"Normal",1.6,"Normal",3.2,"Near Optimal",1,"Better",0.7,3.4,55
+702,"M",31,"26-35",5.7,"Pre-Diabetic",24,"Normal Range",4.9,"Normal",1.6,"Normal",3.2,"Near Optimal",1,"Better",0.7,3.4,55
+4,"F",43,"36-45",5.7,"Pre-Diabetic",25,"Overweight",4.7,"Normal",5.3,"Mildly Increased",1.7,"Optimal (High Risk)",0.9,"Poor",2.4,2.1,55
+189,"M",42,"36-45",5.8,"Pre-Diabetic",23,"Normal Range",5.9,"Borderline High",3.7,"Mildly Increased",3.1,"Near Optimal",1.3,"Better",1.7,5.4,53
+201,"M",47,"46-55",6.2,"Pre-Diabetic",23,"Normal Range",3.7,"Normal",1.8,"Mildly Increased",2,"Optimal",1,"Better",0.8,4.1,87
+285,"M",50,"46-55",6.1,"Pre-Diabetic",24,"Normal Range",4,"Normal",3,"Mildly Increased",1.8,"Optimal (High Risk)",1,"Better",1.3,4.3,59
+393,"M",49,"46-55",6.2,"Pre-Diabetic",25,"Overweight",2,"Normal",0.8,"Normal",1,"Optimal (High Risk)",0.6,"Poor",0.4,5,74
+468,"M",50,"46-55",6.1,"Pre-Diabetic",25,"Overweight",4.2,"Normal",2.2,"Mildly Increased",2.5,"Optimal",0.8,"Poor",0.9,4.7,53
+492,"M",49,"46-55",6,"Pre-Diabetic",24,"Normal Range",4,"Normal",2.1,"Mildly Increased",1.9,"Optimal",1.4,"Better",0.9,3.5,59
+496,"F",49,"46-55",6,"Pre-Diabetic",21,"Normal Range",5.6,"Borderline High",1.9,"Mildly Increased",1.35,"Optimal (High Risk)",0.75,"Poor",0.8,3.3,44
+498,"M",50,"46-55",6.2,"Pre-Diabetic",24,"Normal Range",2,"Normal",0.8,"Normal",1,"Optimal (High Risk)",0.6,"Poor",0.4,5,74
+684,"F",49,"46-55",6,"Pre-Diabetic",23,"Normal Range",5.6,"Borderline High",1.9,"Mildly Increased",1.35,"Optimal (High Risk)",0.75,"Poor",0.8,3.3,44
+700,"M",42,"36-45",5.8,"Pre-Diabetic",23,"Normal Range",5.9,"Borderline High",3.7,"Mildly Increased",3.1,"Near Optimal",1.3,"Better",1.7,5.4,53
+716,"M",50,"46-55",6.1,"Pre-Diabetic",24,"Normal Range",4,"Normal",3,"Mildly Increased",1.8,"Optimal (High Risk)",1,"Better",1.3,4.3,59
+366,"F",49,"46-55",6,"Pre-Diabetic",23,"Normal Range",5.6,"Borderline High",1.9,"Mildly Increased",1.35,"Optimal (High Risk)",0.75,"Poor",0.8,3.3,44
+399,"F",39,"36-45",6.4,"Pre-Diabetic",22,"Normal Range",4.7,"Normal",1.3,"Normal",3.1,"Near Optimal",1.1,"Poor",0.6,3,38
+490,"M",50,"46-55",6.1,"Pre-Diabetic",24,"Normal Range",4,"Normal",2.4,"Mildly Increased",1.8,"Optimal (High Risk)",1,"Better",0.7,4.3,59
+500,"F",39,"36-45",6.4,"Pre-Diabetic",24,"Normal Range",4.7,"Normal",1.3,"Normal",3.1,"Near Optimal",1.1,"Poor",0.6,3,46
+672,"M",49,"46-55",6,"Pre-Diabetic",24,"Normal Range",3.6,"Normal",2.4,"Mildly Increased",1.1,"Optimal (High Risk)",1.9,"Best",0.6,3.1,75
+690,"F",39,"36-45",6.4,"Pre-Diabetic",22,"Normal Range",4.7,"Normal",1.3,"Normal",3.1,"Near Optimal",1.1,"Poor",0.6,3,38
+718,"M",50,"46-55",6.2,"Pre-Diabetic",25,"Overweight",2,"Normal",0.8,"Normal",1,"Optimal (High Risk)",0.6,"Poor",0.4,5,74
+264,"M",33,"26-35",5.8,"Pre-Diabetic",25,"Overweight",4.8,"Normal",1.1,"Normal",2.6,"Optimal",1.7,"Best",0.5,4.8,64
+464,"M",50,"46-55",5.9,"Pre-Diabetic",25,"Overweight",5.3,"Borderline High",1.3,"Normal",3.7,"Borderline High",1,"Better",0.6,4.8,62
+466,"F",30,"26-35",6,"Pre-Diabetic",22,"Normal Range",5.4,"Borderline High",1.7,"Normal",3.3,"Near Optimal",1.4,"Better",0.7,5.7,53
+686,"F",33,"26-35",6,"Pre-Diabetic",24,"Normal Range",4.2,"Normal",1.4,"Normal",2.6,"Optimal",1.3,"Better",0.7,2.7,47
+688,"F",30,"26-35",6,"Pre-Diabetic",22,"Normal Range",5.4,"Borderline High",1.7,"Normal",3.3,"Near Optimal",1.4,"Better",0.7,5.7,53
+16,"M",50,"46-55",5.9,"Pre-Diabetic",19,"Normal Range",5.3,"Borderline High",1.3,"Normal",3.7,"Borderline High",1,"Better",0.6,4.8,62
+705,"M",33,"26-35",5.8,"Pre-Diabetic",25,"Overweight",4.8,"Normal",1.1,"Normal",2.6,"Optimal",1.7,"Best",0.5,4.8,64
+709,"M",50,"46-55",5.9,"Pre-Diabetic",25,"Overweight",5.3,"Borderline High",1.3,"Normal",3.7,"Borderline High",1,"Better",0.6,4.8,62
+19,"F",50,"46-55",6,"Pre-Diabetic",25,"Overweight",5.4,"Borderline High",1.7,"Normal",3.3,"Near Optimal",1.4,"Better",0.7,5.7,53
+123,"F",49,"46-55",6.1,"Pre-Diabetic",25,"Overweight",4.8,"Normal",1.4,"Normal",3.9,"Borderline High",0.7,"Poor",1.7,4.6,60
+476,"F",33,"26-35",6,"Pre-Diabetic",19,"Normal Range",4.2,"Normal",1.4,"Normal",2.6,"Optimal",1.3,"Better",0.7,2.7,47
+682,"F",50,"46-55",6,"Pre-Diabetic",25,"Overweight",5.4,"Borderline High",1.7,"Normal",3.3,"Near Optimal",1.4,"Better",0.7,5.7,53
+706,"M",50,"46-55",5.9,"Pre-Diabetic",19,"Normal Range",5.3,"Borderline High",1.3,"Normal",3.7,"Borderline High",1,"Better",0.6,4.8,62
+754,"M",49,"46-55",5.8,"Pre-Diabetic",24,"Normal Range",4.8,"Normal",1.1,"Normal",2.6,"Optimal",1.7,"Best",0.5,4.8,46
+68,"M",50,"46-55",6.1,"Pre-Diabetic",24,"Normal Range",4.2,"Normal",2.2,"Mildly Increased",2.5,"Optimal",0.8,"Poor",0.9,4.7,53
+342,"M",50,"46-55",6,"Pre-Diabetic",25,"Overweight",4,"Normal",2.1,"Mildly Increased",1.9,"Optimal",1.4,"Better",0.9,3.5,59
+712,"M",50,"46-55",6,"Pre-Diabetic",25,"Overweight",4,"Normal",2.1,"Mildly Increased",1.9,"Optimal",1.4,"Better",0.9,3.5,59
+715,"M",50,"46-55",6.1,"Pre-Diabetic",24,"Normal Range",4.2,"Normal",2.2,"Mildly Increased",2.5,"Optimal",0.8,"Poor",0.9,4.7,53
+12,"M",55,"46-55",6,"Pre-Diabetic",24,"Normal Range",3.6,"Normal",3,"Mildly Increased",0.8,"Optimal (High Risk)",1.5,"Better",1.4,4.8,60
+20,"F",40,"36-45",5.9,"Pre-Diabetic",30,"Obesity",2.1,"Normal",2.3,"Mildly Increased",2.8,"Near Optimal",0.9,"Poor",1.2,2.1,52
+41,"M",40,"36-45",5.7,"Pre-Diabetic",31,"Obesity",6.5,"High",3.8,"Mildly Increased",3.9,"Borderline High",1,"Better",1.7,3.4,64
+60,"F",35,"26-35",5.8,"Pre-Diabetic",32,"Obesity",4,"Normal",2.5,"Mildly Increased",2.3,"Optimal",1.3,"Better",1.6,4.4,37
+79,"M",41,"36-45",5.9,"Pre-Diabetic",21,"Normal Range",4.7,"Normal",5.3,"Mildly Increased",1.7,"Optimal (High Risk)",0.9,"Poor",2.4,5.9,62
+81,"M",43,"36-45",6.3,"Pre-Diabetic",29,"Overweight",4.3,"Normal",1.8,"Mildly Increased",1.9,"Optimal",1.6,"Best",0.8,4.4,60
+133,"M",30,"26-35",6,"Pre-Diabetic",21,"Normal Range",4.9,"Normal",1.6,"Normal",2.5,"Optimal",1.7,"Best",0.7,17.1,344
+135,"M",54,"46-55",5.7,"Pre-Diabetic",28,"Overweight",4.4,"Normal",2.9,"Mildly Increased",2.5,"Optimal",0.6,"Poor",1.3,4,88
+146,"M",30,"26-35",5.8,"Pre-Diabetic",19,"Normal Range",4.2,"Normal",1.7,"Normal",2.2,"Optimal",1.2,"Better",0.8,6,97
+152,"M",39,"36-45",6.4,"Pre-Diabetic",19.5,"Normal Range",3.7,"Normal",2,"Mildly Increased",2.1,"Optimal",0.8,"Poor",0.9,5,106
+178,"F",48,"46-55",6.3,"Pre-Diabetic",27,"Overweight",4.2,"Normal",1.2,"Normal",2.7,"Near Optimal",2.5,"Best",1.4,5.6,79
+18,"M",30,"26-35",6.7,"Diabetic",27.4,"Overweight",4.1,"Normal",1.1,"Normal",2.4,"Optimal",1.2,"Better",8.1,7.1,81
+24,"M",45,"36-45",10.2,"Diabetic",34.3,"Obesity",4.8,"Normal",1.3,"Normal",3.3,"Near Optimal",0.9,"Poor",9.5,4.1,63
+675,"M",45,"36-45",10.2,"Diabetic",34.3,"Obesity",4.8,"Normal",1.3,"Normal",3.3,"Near Optimal",0.9,"Poor",9.5,4.1,63
+39,"M",45,"36-45",11.2,"Diabetic",29.5,"Overweight",3.9,"Normal",1.5,"Normal",2,"Optimal",1.3,"Better",10.4,5.3,77
+474,"M",31,"26-35",6.5,"Diabetic",24,"Normal Range",4.9,"Normal",1.6,"Normal",3.2,"Near Optimal",1,"Better",0.7,3.4,55
+648,"M",45,"36-45",11.2,"Diabetic",29.5,"Overweight",3.9,"Normal",1.5,"Normal",2,"Optimal",1.3,"Better",10.4,5.3,77
+48,"M",30,"26-35",6.9,"Diabetic",34.6,"Obesity",4.5,"Normal",1.8,"Mildly Increased",2.6,"Optimal",1.2,"Better",12.7,5,80
+656,"M",30,"26-35",6.9,"Diabetic",34.6,"Obesity",4.5,"Normal",1.8,"Mildly Increased",2.6,"Optimal",1.2,"Better",12.7,5,80
+57,"M",35,"26-35",7.7,"Diabetic",27.3,"Overweight",3.7,"Normal",1,"Normal",2,"Optimal",1.2,"Better",7.2,4.8,64
+658,"M",35,"26-35",7.7,"Diabetic",27.3,"Overweight",3.7,"Normal",1,"Normal",2,"Optimal",1.2,"Better",7.2,4.8,64
+69,"M",45,"36-45",7.2,"Diabetic",31.2,"Obesity",4.7,"Normal",1.8,"Mildly Increased",3.1,"Near Optimal",0.8,"Poor",12.7,4.8,82
+662,"M",45,"36-45",7.2,"Diabetic",31.2,"Obesity",4.7,"Normal",1.8,"Mildly Increased",3.1,"Near Optimal",0.8,"Poor",12.7,4.8,82
+714,"M",45,"36-45",5,"Diabetic",22,"Normal Range",6.1,"Borderline High",3.7,"Mildly Increased",3.9,"Borderline High",0.7,"Poor",1.7,3.6,80
+87,"F",50,"46-55",13.7,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4,56
+231,"F",50,"46-55",13.7,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4,56
+505,"F",48,"46-55",6.5,"Diabetic",23,"Normal Range",4.4,"Normal",2.3,"Mildly Increased",2.2,"Optimal",1.3,"Better",1,4,38
+654,"M",38,"36-45",6.7,"Diabetic",40.5,"Severe Obesity",5.3,"Borderline High",2,"Mildly Increased",2.9,"Near Optimal",1.6,"Best",14,5.8,59
+61,"M",45,"36-45",5.1,"Diabetic",25,"Overweight",4.4,"Normal",1.5,"Normal",2.8,"Near Optimal",1,"Better",0.5,2.3,42
+127,"F",54,"46-55",7.2,"Diabetic",22,"Normal Range",9.5,"High",1.7,"Normal",2.5,"Optimal",1.3,"Better",0.6,3,39
+228,"M",43,"36-45",4.1,"Diabetic",21,"Normal Range",5.9,"Borderline High",2,"Mildly Increased",3.9,"Borderline High",1.1,"Better",0.9,5.4,62
+674,"M",49,"46-55",5.2,"Diabetic",24,"Normal Range",5.1,"Normal",1.7,"Normal",0.8,"Optimal (High Risk)",3.9,"Best",1.6,3.9,65
+744,"F",49,"46-55",5.1,"Diabetic",25,"Overweight",6,"Borderline High",3.5,"Mildly Increased",3.5,"Borderline High",1.1,"Poor",1.6,3.8,56
+58,"F",47,"46-55",5,"Diabetic",23,"Normal Range",6.3,"High",2.2,"Mildly Increased",2.8,"Near Optimal",1.1,"Poor",0.8,3.5,65
+108,"M",38,"36-45",10.2,"Diabetic",47,"Severe Obesity",5.2,"Borderline High",2,"Mildly Increased",3.2,"Near Optimal",1.1,"Better",14,4,67
+198,"M",39,"36-45",5.1,"Diabetic",25,"Overweight",6.7,"High",2.5,"Mildly Increased",4.5,"High",1.1,"Better",1.1,4.3,49
+357,"M",30,"26-35",5.5,"Diabetic",25,"Overweight",5.5,"Borderline High",1.8,"Mildly Increased",3.5,"Borderline High",1.2,"Better",0.8,4.8,80
+588,"M",40,"36-45",4,"Diabetic",24,"Normal Range",5,"Normal",2.1,"Mildly Increased",3,"Near Optimal",1.6,"Best",0.9,5.9,76
+666,"M",38,"36-45",10.2,"Diabetic",47,"Severe Obesity",5.2,"Borderline High",2,"Mildly Increased",3.2,"Near Optimal",1.1,"Better",14,4,67
+698,"M",30,"26-35",5.5,"Diabetic",25,"Overweight",5.5,"Borderline High",1.8,"Mildly Increased",3.5,"Borderline High",1.2,"Better",0.8,4.8,80
+753,"M",46,"46-55",5.2,"Diabetic",24,"Normal Range",6.8,"High",0.7,"Normal",4.7,"High",1.7,"Best",0.4,4.4,47
+110,"F",45,"36-45",5.3,"Diabetic",25,"Overweight",2.5,"Normal",2.2,"Mildly Increased",0.6,"Optimal (High Risk)",1,"Poor",1,3.7,49
+113,"M",33,"26-35",9.7,"Diabetic",21.17,"Normal Range",2.4,"Normal",1.9,"Mildly Increased",2.5,"Optimal",0.8,"Poor",13.1,3.3,76
+119,"M",40,"36-45",7,"Diabetic",40,"Severe Obesity",4,"Normal",1.8,"Mildly Increased",2.4,"Optimal",0.9,"Poor",12.2,4.3,72
+122,"M",40,"36-45",7.5,"Diabetic",28.3,"Overweight",4.4,"Normal",1.4,"Normal",2.5,"Optimal",1.3,"Better",10,7.1,74
+452,"M",50,"46-55",4,"Diabetic",23,"Normal Range",5.2,"Borderline High",2.1,"Mildly Increased",3.2,"Near Optimal",1.1,"Better",0.9,7.7,67
+652,"M",33,"26-35",9.7,"Diabetic",21.17,"Normal Range",2.4,"Normal",1.9,"Mildly Increased",2.5,"Optimal",0.8,"Poor",13.1,3.3,76
+660,"M",40,"36-45",7.5,"Diabetic",28.3,"Overweight",4.4,"Normal",1.4,"Normal",2.5,"Optimal",1.3,"Better",10,7.1,74
+673,"M",40,"36-45",7,"Diabetic",40,"Severe Obesity",4,"Normal",1.8,"Mildly Increased",2.4,"Optimal",0.9,"Poor",12.2,4.3,72
+162,"F",63,"56-65",8.9,"Diabetic",32,"Obesity",5.8,"Borderline High",1.7,"Normal",3.4,"Borderline High",1.7,"Best",0.8,6.6,96
+168,"F",44,"36-45",4,"Diabetic",23,"Normal Range",6.2,"High",2.3,"Mildly Increased",4.1,"Borderline High",1.2,"Poor",1,6.8,64
+580,"F",49,"46-55",4.2,"Diabetic",25,"Overweight",4.2,"Normal",1.1,"Normal",2.7,"Near Optimal",1.1,"Poor",0.5,4.3,53
+694,"M",42,"36-45",4.5,"Diabetic",22,"Normal Range",5.6,"Borderline High",2.1,"Mildly Increased",3.8,"Borderline High",0.9,"Poor",0.9,4.6,91
+790,"F",44,"36-45",4.3,"Diabetic",25,"Overweight",5.3,"Borderline High",1.8,"Mildly Increased",3.6,"Borderline High",0.9,"Poor",0.9,4,32
+140,"F",33,"26-35",7.4,"Diabetic",31.5,"Obesity",3.7,"Normal",1.2,"Normal",1.5,"Optimal (High Risk)",1.6,"Best",0.5,1.8,31
+375,"F",47,"46-55",4,"Diabetic",23,"Normal Range",5.3,"Borderline High",2.3,"Mildly Increased",3.7,"Borderline High",0.7,"Poor",1,5.1,68
+426,"F",48,"46-55",6.8,"Diabetic",25,"Overweight",4.4,"Normal",2.3,"Mildly Increased",2.2,"Optimal",1.3,"Better",1,4,38
+453,"F",33,"26-35",7.4,"Diabetic",31.5,"Obesity",3.7,"Normal",1.2,"Normal",1.5,"Optimal (High Risk)",1.6,"Best",0.5,1.8,31
+534,"M",57,"56-65",6.8,"Diabetic",37,"Obesity",6.1,"Borderline High",6,"Moderately Increased",3.5,"Borderline High",2.5,"Best",1.1,4.6,370
+612,"F",33,"26-35",5,"Diabetic",24,"Normal Range",6.2,"High",3.8,"Mildly Increased",3.7,"Borderline High",0.8,"Poor",1.7,4.6,56
+692,"F",48,"46-55",6.8,"Diabetic",25,"Overweight",4.4,"Normal",2.3,"Mildly Increased",2.2,"Optimal",1.3,"Better",1,4,38
+717,"F",33,"26-35",4,"Diabetic",23,"Normal Range",6.8,"High",3.1,"Mildly Increased",3.9,"Borderline High",1,"Poor",1.5,5.7,48
+725,"M",34,"26-35",5.5,"Diabetic",21,"Normal Range",5.1,"Normal",1.2,"Normal",0.9,"Optimal (High Risk)",1.4,"Better",1.5,7.7,80
+777,"M",43,"36-45",4,"Diabetic",23,"Normal Range",6.2,"High",3.2,"Mildly Increased",3.9,"Borderline High",1,"Better",1.5,3.2,42
+67,"F",28,"26-35",4.9,"Diabetic",24,"Normal Range",5.3,"Borderline High",3.2,"Mildly Increased",0.8,"Optimal (High Risk)",0.8,"Poor",0.9,4.1,73
+109,"M",42,"36-45",4.5,"Diabetic",22,"Normal Range",5.6,"Borderline High",2.1,"Mildly Increased",3.8,"Borderline High",0.9,"Poor",0.9,4.6,91
+351,"M",47,"46-55",4,"Diabetic",24,"Normal Range",7,"High",2.8,"Mildly Increased",4.9,"High",0.9,"Poor",1.3,5.8,62
+552,"M",39,"36-45",5.1,"Diabetic",20,"Normal Range",7.1,"High",1.5,"Normal",4.1,"Borderline High",1.2,"Better",0.7,9.1,80
+685,"F",39,"36-45",5,"Diabetic",25,"Overweight",4.4,"Normal",1.7,"Normal",0.7,"Optimal (High Risk)",2.8,"Best",0.6,4.2,45
+750,"F",49,"46-55",4,"Diabetic",23,"Normal Range",6.6,"High",3.8,"Mildly Increased",4.1,"Borderline High",1,"Poor",1.7,2.2,23
+31,"M",50,"46-55",4,"Diabetic",24,"Normal Range",6.3,"High",4.4,"Mildly Increased",3.6,"Borderline High",1,"Better",1.7,2.6,106
+129,"F",56,"56-65",5.7,"Diabetic",35,"Obesity",4.8,"Normal",1.7,"Normal",2.8,"Near Optimal",1.3,"Better",0.7,8.5,92
+173,"M",51,"46-55",7,"Diabetic",31,"Obesity",3.8,"Normal",3.8,"Mildly Increased",1.1,"Optimal (High Risk)",1,"Better",1.7,7.3,65
+176,"M",52,"46-55",7,"Diabetic",33,"Obesity",3.8,"Normal",3.2,"Mildly Increased",1.7,"Optimal (High Risk)",0.8,"Poor",1.4,3,60
+179,"M",56,"56-65",4.8,"Diabetic",39,"Obesity",4.1,"Normal",1.5,"Normal",1.7,"Optimal (High Risk)",0.8,"Poor",1.4,3.4,44
+183,"M",52,"46-55",7,"Diabetic",33,"Obesity",3.8,"Normal",3.2,"Mildly Increased",1.7,"Optimal (High Risk)",0.8,"Poor",1.4,3,60
+185,"F",56,"56-65",5.7,"Diabetic",35,"Obesity",4.8,"Normal",1.7,"Normal",2.8,"Near Optimal",1.3,"Better",0.7,8.5,92
+195,"M",56,"56-65",4.8,"Diabetic",39,"Obesity",4.1,"Normal",1.5,"Normal",1.7,"Optimal (High Risk)",0.8,"Poor",1.4,3.4,44
+316,"M",51,"46-55",7,"Diabetic",31,"Obesity",3.8,"Normal",3.8,"Mildly Increased",1.1,"Optimal (High Risk)",1,"Better",1.7,7.3,65
+646,"F",59,"56-65",6,"Diabetic",38,"Obesity",4.2,"Normal",2,"Mildly Increased",0.9,"Optimal (High Risk)",2.3,"Best",1.4,3.8,91
+187,"M",69,"66-80",10.4,"Diabetic",33,"Obesity",5.4,"Borderline High",1.3,"Normal",3.1,"Near Optimal",1.7,"Best",0.6,5.9,71
+188,"F",54,"46-55",6.7,"Diabetic",37,"Obesity",3.1,"Normal",1.1,"Normal",1.2,"Optimal (High Risk)",3.1,"Best",0.7,4.3,52
+191,"M",60,"56-65",7.8,"Diabetic",26,"Overweight",4.7,"Normal",2.3,"Mildly Increased",1.6,"Optimal (High Risk)",1.4,"Better",0.6,6.6,76
+194,"M",54,"46-55",10.4,"Diabetic",32,"Obesity",5.4,"Borderline High",1.3,"Normal",3.1,"Near Optimal",1.7,"Best",0.6,5.9,71
+200,"M",57,"56-65",7,"Diabetic",33,"Obesity",5.5,"Borderline High",1.9,"Mildly Increased",3.7,"Borderline High",1,"Better",0.9,2,77
+203,"M",55,"46-55",10.2,"Diabetic",33.9,"Obesity",5.6,"Borderline High",4.6,"Mildly Increased",2.9,"Near Optimal",0.8,"Poor",31.8,5,76
+411,"M",57,"56-65",7,"Diabetic",33,"Obesity",5.5,"Borderline High",1.9,"Mildly Increased",3.7,"Borderline High",1,"Better",0.9,2,77
+520,"M",54,"46-55",10.4,"Diabetic",32,"Obesity",5.4,"Borderline High",1.3,"Normal",3.1,"Near Optimal",1.7,"Best",0.6,5.9,71
+622,"M",55,"46-55",10.2,"Diabetic",33.9,"Obesity",5.6,"Borderline High",4.6,"Mildly Increased",2.9,"Near Optimal",0.8,"Poor",31.8,5,76
+758,"M",60,"56-65",7.8,"Diabetic",26,"Overweight",4.7,"Normal",2.3,"Mildly Increased",1.6,"Optimal (High Risk)",1.4,"Better",0.6,6.6,76
+206,"F",60,"56-65",6.8,"Diabetic",27,"Overweight",7.2,"High",2.2,"Mildly Increased",2.2,"Optimal",0.8,"Poor",1.1,2,45
+600,"F",60,"56-65",6.8,"Diabetic",27,"Overweight",7.2,"High",2.2,"Mildly Increased",2.2,"Optimal",1,"Poor",1.1,2,45
+76,"M",73,"66-80",6,"Diabetic",27,"Overweight",5.3,"Borderline High",1.4,"Normal",3.2,"Near Optimal",1.5,"Better",0.6,4.3,79
+86,"F",61,"56-65",9.9,"Diabetic",28,"Overweight",4.1,"Normal",4.2,"Mildly Increased",1.4,"Optimal (High Risk)",1.2,"Poor",1.1,2.1,23
+209,"M",51,"46-55",7.3,"Diabetic",32,"Obesity",3.5,"Normal",1.8,"Mildly Increased",1.95,"Optimal",1.8,"Best",0.8,6.5,70
+212,"F",61,"56-65",9.9,"Diabetic",28,"Overweight",4.1,"Normal",4.2,"Mildly Increased",1.4,"Optimal (High Risk)",1.2,"Poor",1.1,2.1,23
+215,"M",55,"46-55",8.1,"Diabetic",31.4,"Obesity",4.5,"Normal",1.5,"Normal",2.7,"Near Optimal",1.2,"Better",10.4,4.16,64
+218,"F",55,"46-55",8,"Diabetic",30,"Obesity",4.6,"Normal",1.7,"Normal",2.9,"Near Optimal",1,"Poor",0.8,2.7,52
+221,"M",73,"66-80",6,"Diabetic",27,"Overweight",5.3,"Borderline High",1.4,"Normal",3.2,"Near Optimal",1.5,"Better",0.6,4.3,79
+224,"M",73,"66-80",6.9,"Diabetic",28,"Overweight",5.3,"Borderline High",1.4,"Normal",3.2,"Near Optimal",1.5,"Better",0.6,4.3,79
+227,"F",63,"56-65",9,"Diabetic",29,"Overweight",5.9,"Borderline High",2.2,"Mildly Increased",3.7,"Borderline High",1.2,"Poor",1,8.7,93
+438,"M",51,"46-55",7.3,"Diabetic",32,"Obesity",3.5,"Normal",1.8,"Mildly Increased",1.95,"Optimal",1.8,"Best",0.8,6.5,70
+456,"F",63,"56-65",9,"Diabetic",29,"Overweight",5.9,"Borderline High",2.2,"Mildly Increased",3.7,"Borderline High",1.2,"Poor",1,8.7,93
+510,"M",73,"66-80",6.9,"Diabetic",28,"Overweight",5.3,"Borderline High",1.4,"Normal",3.2,"Near Optimal",1.5,"Better",0.6,4.3,79
+602,"M",55,"46-55",8.1,"Diabetic",31.4,"Obesity",4.5,"Normal",1.5,"Normal",2.7,"Near Optimal",1.2,"Better",10.4,4.16,64
+772,"F",55,"46-55",8,"Diabetic",30,"Obesity",4.6,"Normal",1.7,"Normal",2.9,"Near Optimal",1,"Poor",0.8,2.7,52
+230,"F",52,"46-55",6.5,"Diabetic",31,"Obesity",2.7,"Normal",1.2,"Normal",1.4,"Optimal (High Risk)",0.8,"Poor",0.5,6,76
+233,"F",55,"46-55",5.9,"Diabetic",30,"Obesity",4.1,"Normal",2.7,"Mildly Increased",2,"Optimal",1,"Poor",1.2,2.1,46
+236,"F",51,"46-55",5.9,"Diabetic",36,"Obesity",4.1,"Normal",2.7,"Mildly Increased",2,"Optimal",1,"Poor",1.2,2.1,46
+239,"M",57,"56-65",7.3,"Diabetic",34,"Obesity",4.5,"Normal",1.6,"Normal",1.9,"Optimal",2.1,"Best",0.7,4.8,72
+242,"M",55,"46-55",11.8,"Diabetic",31.5,"Obesity",4.5,"Normal",1.8,"Mildly Increased",2.7,"Near Optimal",1.1,"Better",12.7,5.1,78
+252,"F",55,"46-55",5.9,"Diabetic",30,"Obesity",4.1,"Normal",2.7,"Mildly Increased",2,"Optimal",1,"Poor",1.2,2.1,46
+312,"M",57,"56-65",7.3,"Diabetic",34,"Obesity",4.5,"Normal",1.6,"Normal",1.9,"Optimal",2.1,"Best",0.7,4.8,72
+614,"F",52,"46-55",6.5,"Diabetic",31,"Obesity",2.7,"Normal",1.2,"Normal",1.4,"Optimal (High Risk)",0.8,"Poor",0.5,6,76
+647,"M",55,"46-55",11.8,"Diabetic",31.5,"Obesity",4.5,"Normal",1.8,"Mildly Increased",2.7,"Near Optimal",1.1,"Better",12.7,5.1,78
+739,"F",51,"46-55",5.9,"Diabetic",36,"Obesity",4.1,"Normal",2.7,"Mildly Increased",2,"Optimal",1,"Poor",1.2,2.1,46
+1,"M",58,"56-65",9.1,"Diabetic",33,"Obesity",6.6,"High",2.9,"Mildly Increased",4.3,"High",1.1,"Better",1.3,20.8,800
+243,"M",56,"56-65",7.6,"Diabetic",26,"Overweight",4.7,"Normal",1.3,"Normal",3.3,"Near Optimal",0.9,"Poor",0.6,3.5,60
+245,"M",61,"56-65",6.2,"Diabetic",38,"Obesity",2.6,"Normal",1.1,"Normal",1.6,"Optimal (High Risk)",0.9,"Poor",0.7,5.7,92
+251,"M",73,"66-80",10.3,"Diabetic",34,"Obesity",4.2,"Normal",1.9,"Mildly Increased",9.9,"Very High",1.95,"Best",0.7,4.3,67
+254,"M",55,"46-55",6,"Diabetic",35,"Obesity",4.3,"Normal",1.5,"Normal",2.6,"Optimal",1,"Better",0.7,3.8,46
+257,"M",56,"56-65",7.6,"Diabetic",26,"Overweight",4.7,"Normal",1.3,"Normal",3.3,"Near Optimal",0.9,"Poor",0.6,3.5,60
+258,"M",55,"46-55",6,"Diabetic",35,"Obesity",4.3,"Normal",1.5,"Normal",2.6,"Optimal",1,"Better",0.7,3.8,46
+260,"M",60,"56-65",7.6,"Diabetic",37,"Obesity",4.7,"Normal",1.3,"Normal",3.3,"Near Optimal",0.9,"Poor",0.6,3.5,60
+263,"F",53,"46-55",6.9,"Diabetic",39,"Obesity",5.4,"Borderline High",3.8,"Mildly Increased",3,"Near Optimal",1.9,"Best",0.7,4.5,68
+266,"M",58,"56-65",9.1,"Diabetic",33,"Obesity",6.6,"High",2.9,"Mildly Increased",4.3,"High",1.1,"Better",1.3,20.8,800
+306,"M",73,"66-80",10.3,"Diabetic",34,"Obesity",4.2,"Normal",1.9,"Mildly Increased",9.9,"Very High",1.95,"Best",0.7,4.3,67
+536,"M",54,"46-55",6.9,"Diabetic",33,"Obesity",3.8,"Normal",1.7,"Normal",3,"Near Optimal",1.1,"Better",0.7,5,67
+577,"F",53,"46-55",6.9,"Diabetic",39,"Obesity",5.4,"Borderline High",3.8,"Mildly Increased",3,"Near Optimal",1.9,"Best",0.7,4.5,68
+655,"M",61,"56-65",6.2,"Diabetic",38,"Obesity",2.6,"Normal",1.1,"Normal",2,"Optimal",0.9,"Poor",0.7,5.7,92
+734,"M",60,"56-65",7.6,"Diabetic",37,"Obesity",4.7,"Normal",1.3,"Normal",3.3,"Near Optimal",0.9,"Poor",0.6,3.5,60
+37,"F",54,"46-55",7.9,"Diabetic",33,"Obesity",2,"Normal",1.9,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.7,1.2,25
+159,"F",66,"66-80",8.5,"Diabetic",26,"Overweight",4.2,"Normal",1,"Normal",2.4,"Optimal",1.4,"Better",0.4,3.2,46
+269,"F",66,"66-80",8.5,"Diabetic",26,"Overweight",4.2,"Normal",1,"Normal",2.4,"Optimal",1.4,"Better",0.4,3.2,46
+272,"F",52,"46-55",5.8,"Diabetic",33,"Obesity",6,"Borderline High",1.2,"Normal",2,"Optimal",1.1,"Poor",0.5,2,34
+462,"F",52,"46-55",5.8,"Diabetic",33,"Obesity",6,"Borderline High",1.2,"Normal",2,"Optimal",1.1,"Poor",0.5,2,34
+15,"F",61,"56-65",12.1,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4.3,56
+275,"M",55,"46-55",9.8,"Diabetic",29,"Overweight",4.1,"Normal",1,"Normal",2.1,"Optimal",1.1,"Better",0.5,2.9,44
+278,"M",56,"56-65",6.8,"Diabetic",32,"Obesity",4.9,"Normal",2.5,"Mildly Increased",3.4,"Borderline High",0.5,"Poor",1.1,3.2,33
+281,"M",55,"46-55",9.7,"Diabetic",30,"Obesity",5.2,"Borderline High",1.8,"Mildly Increased",3.2,"Near Optimal",1.3,"Better",0.8,5.4,85
+282,"M",56,"56-65",6.8,"Diabetic",32,"Obesity",4.9,"Normal",2.5,"Mildly Increased",3.4,"Borderline High",0.5,"Poor",1.1,3.2,33
+405,"M",55,"46-55",9.7,"Diabetic",30,"Obesity",5.2,"Borderline High",1.8,"Mildly Increased",3.2,"Near Optimal",1.3,"Better",0.8,5.4,85
+463,"M",55,"46-55",9.8,"Diabetic",29,"Overweight",4.1,"Normal",1,"Normal",2.1,"Optimal",1.1,"Better",0.5,2.9,44
+3,"F",56,"56-65",9.2,"Diabetic",30,"Obesity",4.1,"Normal",0.6,"Normal",1.4,"Optimal (High Risk)",1.3,"Better",0.9,4,45
+36,"M",66,"66-80",10.1,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4.1,63
+46,"F",66,"66-80",8.7,"Diabetic",33,"Obesity",5.8,"Borderline High",3.3,"Mildly Increased",3.4,"Borderline High",1,"Poor",1.5,14.1,146
+59,"F",56,"56-65",9.3,"Diabetic",36.6,"Obesity",5.8,"Borderline High",2.4,"Mildly Increased",3.9,"Borderline High",0.9,"Poor",1.1,5.5,48
+91,"M",55,"46-55",7.2,"Diabetic",30,"Obesity",3.2,"Normal",1.9,"Mildly Increased",1.8,"Optimal (High Risk)",0.6,"Poor",0.8,3.7,93
+120,"F",59,"56-65",7,"Diabetic",26,"Overweight",3.4,"Normal",1.8,"Mildly Increased",1.8,"Optimal (High Risk)",1.1,"Poor",0.8,4.7,55
+284,"M",55,"46-55",7.2,"Diabetic",30,"Obesity",3.2,"Normal",1.9,"Mildly Increased",1.8,"Optimal (High Risk)",0.6,"Poor",0.8,3.7,93
+287,"F",59,"56-65",7,"Diabetic",26,"Overweight",3.4,"Normal",1.8,"Mildly Increased",1.8,"Optimal (High Risk)",1.1,"Poor",0.8,4.7,55
+290,"M",54,"46-55",8.8,"Diabetic",27,"Overweight",5.2,"Borderline High",1.6,"Normal",3.5,"Borderline High",1,"Better",0.7,9.9,159
+293,"F",66,"66-80",8.7,"Diabetic",33,"Obesity",5.8,"Borderline High",3.3,"Mildly Increased",3.4,"Borderline High",1,"Poor",1.5,14.1,146
+296,"F",56,"56-65",9.3,"Diabetic",30,"Obesity",5.8,"Borderline High",2.4,"Mildly Increased",3.9,"Borderline High",0.9,"Poor",1.1,5.5,48
+299,"F",56,"56-65",9.3,"Diabetic",36.6,"Obesity",5.8,"Borderline High",2.4,"Mildly Increased",3.9,"Borderline High",0.9,"Poor",1.1,5.5,48
+302,"M",60,"56-65",9,"Diabetic",30,"Obesity",5.9,"Borderline High",3.4,"Mildly Increased",3.7,"Borderline High",0.8,"Poor",0.5,6.5,30
+305,"M",57,"56-65",8,"Diabetic",28,"Overweight",6.1,"Borderline High",3,"Mildly Increased",2,"Optimal",1.1,"Better",1.4,9.3,69
+308,"M",54,"46-55",11,"Diabetic",29,"Overweight",6.3,"High",6.8,"Moderately Increased",2.4,"Optimal",0.7,"Poor",3.1,5.5,69
+475,"M",54,"46-55",8.8,"Diabetic",27,"Overweight",5.2,"Borderline High",1.6,"Normal",3.5,"Borderline High",1,"Better",0.7,9.9,159
+484,"F",56,"56-65",9.3,"Diabetic",30,"Obesity",5.8,"Borderline High",2.4,"Mildly Increased",3.9,"Borderline High",0.9,"Poor",1.1,5.5,48
+528,"M",57,"56-65",8,"Diabetic",28,"Overweight",6.1,"Borderline High",3,"Mildly Increased",2,"Optimal",1.1,"Better",1.4,9.3,69
+723,"M",54,"46-55",11,"Diabetic",29,"Overweight",6.3,"High",6.8,"Moderately Increased",2.4,"Optimal",0.7,"Poor",3.1,5.5,69
+730,"M",60,"56-65",9,"Diabetic",30,"Obesity",5.9,"Borderline High",3.4,"Mildly Increased",3.7,"Borderline High",0.8,"Poor",0.5,6.5,30
+21,"M",59,"56-65",10.5,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,4.2,56
+160,"M",60,"56-65",6.4,"Diabetic",31,"Obesity",4,"Normal",2.3,"Mildly Increased",2,"Optimal",1,"Better",1,3.9,49
+184,"F",55,"46-55",9.6,"Diabetic",29,"Overweight",5.2,"Borderline High",1.5,"Normal",3.5,"Borderline High",1.1,"Poor",0.7,11.7,136
+273,"F",61,"56-65",7.2,"Diabetic",36,"Obesity",5.8,"Borderline High",2.6,"Mildly Increased",0.9,"Optimal (High Risk)",1.6,"Best",1.5,3.3,31
+311,"F",51,"46-55",6.1,"Diabetic",33,"Obesity",2.8,"Normal",2,"Mildly Increased",0.8,"Optimal (High Risk)",1.2,"Poor",0.9,4.3,53
+314,"M",52,"46-55",7.7,"Diabetic",33,"Obesity",3.5,"Normal",1.3,"Normal",1.6,"Optimal (High Risk)",1,"Better",1.4,7.8,315
+317,"M",63,"56-65",7.8,"Diabetic",33,"Obesity",3.6,"Normal",1.1,"Normal",2.1,"Optimal",1,"Better",0.5,4.9,65
+320,"M",60,"56-65",6.4,"Diabetic",31,"Obesity",4,"Normal",2.3,"Mildly Increased",2,"Optimal",1,"Better",1,3.9,49
+323,"F",55,"46-55",10.6,"Diabetic",35,"Obesity",4,"Normal",3.1,"Mildly Increased",2.6,"Optimal",1,"Poor",1.4,5.6,58
+326,"F",51,"46-55",7,"Diabetic",39,"Obesity",4.5,"Normal",0.6,"Normal",3.1,"Near Optimal",1.1,"Poor",0.3,3.4,31
+329,"F",55,"46-55",9.6,"Diabetic",29,"Overweight",5.2,"Borderline High",1.5,"Normal",3.5,"Borderline High",1.1,"Poor",0.7,11.7,136
+332,"F",61,"56-65",7.2,"Diabetic",36,"Obesity",5.8,"Borderline High",2.6,"Mildly Increased",0.9,"Optimal (High Risk)",1.6,"Best",1.5,3.3,31
+423,"F",51,"46-55",6.1,"Diabetic",33,"Obesity",2.8,"Normal",2,"Mildly Increased",0.8,"Optimal (High Risk)",1.2,"Poor",0.9,4.3,53
+427,"M",63,"56-65",7.8,"Diabetic",33,"Obesity",3.6,"Normal",1.1,"Normal",2.1,"Optimal",1,"Better",0.5,4.9,65
+503,"F",55,"46-55",10.6,"Diabetic",35,"Obesity",4,"Normal",3.1,"Mildly Increased",2.6,"Optimal",1,"Poor",1.4,5.6,58
+546,"M",52,"46-55",7.7,"Diabetic",33,"Obesity",3.5,"Normal",1.3,"Normal",1.6,"Optimal (High Risk)",1,"Better",1.4,7.8,315
+597,"M",55,"46-55",7.9,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.4,56
+778,"F",51,"46-55",7,"Diabetic",39,"Obesity",4.5,"Normal",0.6,"Normal",3.1,"Near Optimal",1.1,"Poor",0.3,3.4,31
+6,"F",61,"56-65",11.5,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,5.1,72
+65,"M",55,"46-55",6.5,"Diabetic",30,"Obesity",6,"Borderline High",1.5,"Normal",4.1,"Borderline High",1.3,"Better",0.6,4.6,77
+73,"M",55,"46-55",5.7,"Diabetic",30.1,"Obesity",3.4,"Normal",0.7,"Normal",2,"Optimal",1.1,"Better",0.3,4.8,63
+177,"M",58,"56-65",5.5,"Diabetic",38,"Obesity",0.6,"Normal",2.5,"Mildly Increased",2,"Optimal",1.1,"Better",0.6,4.8,60
+222,"F",55,"46-55",7.1,"Diabetic",37,"Obesity",4,"Normal",1.5,"Normal",1.9,"Optimal",1.4,"Better",0.6,5.1,66
+297,"M",54,"46-55",6.5,"Diabetic",33,"Obesity",2.4,"Normal",1,"Normal",0.9,"Optimal (High Risk)",1,"Better",0.7,4.2,48
+335,"M",58,"56-65",5.5,"Diabetic",38,"Obesity",0.6,"Normal",2.5,"Mildly Increased",2,"Optimal",1.1,"Better",0.6,4.8,60
+338,"M",54,"46-55",6.5,"Diabetic",33,"Obesity",2.4,"Normal",1,"Normal",0.9,"Optimal (High Risk)",1,"Better",0.7,4.2,48
+341,"M",55,"46-55",5.7,"Diabetic",30.1,"Obesity",3.4,"Normal",0.7,"Normal",2,"Optimal",1.1,"Better",0.3,4.8,63
+344,"M",55,"46-55",6.7,"Diabetic",30,"Obesity",3.4,"Normal",0.7,"Normal",2,"Optimal",1.1,"Better",0.3,4.8,63
+347,"F",55,"46-55",7.1,"Diabetic",37,"Obesity",4,"Normal",1.5,"Normal",1.9,"Optimal",1.4,"Better",0.6,5.1,66
+350,"M",55,"46-55",6.5,"Diabetic",30,"Obesity",6,"Borderline High",1.5,"Normal",4.1,"Borderline High",1.3,"Better",0.6,4.6,77
+353,"M",55,"46-55",6.5,"Diabetic",30,"Obesity",6,"Borderline High",1.5,"Normal",4.1,"Borderline High",1.3,"Better",0.6,4.6,77
+356,"M",53,"46-55",9.5,"Diabetic",32,"Obesity",7.2,"High",2,"Mildly Increased",2,"Optimal",1.9,"Best",0.7,3,48
+488,"M",55,"46-55",6.5,"Diabetic",30,"Obesity",6,"Borderline High",1.5,"Normal",4.1,"Borderline High",1.3,"Better",0.6,4.6,77
+508,"M",55,"46-55",6.7,"Diabetic",30,"Obesity",3.4,"Normal",0.7,"Normal",2,"Optimal",1.1,"Better",0.3,4.8,63
+616,"M",53,"46-55",9.5,"Diabetic",32,"Obesity",7.2,"High",2,"Mildly Increased",2,"Optimal",1.9,"Best",0.7,3,48
+100,"F",56,"56-65",10.2,"Diabetic",30,"Obesity",4.8,"Normal",1,"Normal",2.9,"Near Optimal",1.4,"Better",0.4,2.3,36
+163,"M",61,"56-65",6.4,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.9,"Near Optimal",0.7,"Poor",0.9,4.7,58
+359,"M",61,"56-65",6.4,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.9,"Near Optimal",0.7,"Poor",0.9,4.7,58
+362,"F",56,"56-65",10.2,"Diabetic",30,"Obesity",4.8,"Normal",1,"Normal",2.9,"Near Optimal",1.4,"Better",0.4,2.3,36
+365,"F",55,"46-55",10.2,"Diabetic",36.6,"Obesity",4.8,"Normal",1,"Normal",2.9,"Near Optimal",1.4,"Better",0.4,2.3,36
+368,"F",60,"56-65",6.2,"Diabetic",27,"Overweight",5.8,"Borderline High",0.9,"Normal",4.4,"High",1,"Poor",0.4,3,42
+509,"F",60,"56-65",6.2,"Diabetic",27,"Overweight",5.8,"Borderline High",0.9,"Normal",4.4,"High",1,"Poor",0.4,3,42
+521,"F",55,"46-55",10.2,"Diabetic",36.6,"Obesity",4.8,"Normal",1,"Normal",2.9,"Near Optimal",1.4,"Better",0.4,2.3,36
+270,"M",56,"56-65",9,"Diabetic",29,"Overweight",7.2,"High",3.7,"Mildly Increased",5,"Very High",0.7,"Poor",1.6,4.1,68
+354,"F",51,"46-55",10.7,"Diabetic",26,"Overweight",7,"High",2.7,"Mildly Increased",4.8,"High",1,"Poor",1.2,3.4,49
+371,"M",52,"46-55",11,"Diabetic",28,"Overweight",4,"Normal",1.1,"Normal",3.5,"Borderline High",0.8,"Poor",0.8,8,66
+374,"M",59,"56-65",6.2,"Diabetic",30,"Obesity",4.6,"Normal",1.3,"Normal",3.1,"Near Optimal",0.9,"Poor",0.6,20,65
+377,"F",68,"66-80",7,"Diabetic",36.6,"Obesity",5,"Normal",1.7,"Normal",3.5,"Borderline High",0.8,"Poor",0.8,5.7,71
+380,"M",55,"46-55",7,"Diabetic",29.36,"Overweight",5.3,"Borderline High",2.03,"Mildly Increased",3.2,"Near Optimal",1.2,"Better",14,4.66,95
+383,"F",51,"46-55",10.7,"Diabetic",26,"Overweight",7,"High",2.7,"Mildly Increased",4.8,"High",1,"Poor",1.2,3.4,49
+386,"M",56,"56-65",9,"Diabetic",29,"Overweight",7.2,"High",3.7,"Mildly Increased",5,"Very High",0.7,"Poor",1.6,4.1,68
+430,"M",59,"56-65",6.2,"Diabetic",30,"Obesity",4.6,"Normal",1.3,"Normal",3.1,"Near Optimal",0.9,"Poor",0.6,14,65
+526,"F",68,"66-80",7,"Diabetic",36.6,"Obesity",5,"Normal",1.7,"Normal",3.5,"Borderline High",0.8,"Poor",0.8,5.7,71
+642,"M",55,"46-55",7,"Diabetic",29.36,"Overweight",5.3,"Borderline High",2.03,"Mildly Increased",3.2,"Near Optimal",1.2,"Better",14,4.66,95
+55,"F",54,"46-55",11,"Diabetic",31,"Obesity",3.4,"Normal",3,"Mildly Increased",3.5,"Borderline High",0.9,"Poor",0.9,4.3,55
+56,"F",54,"46-55",7.6,"Diabetic",30,"Obesity",5.4,"Borderline High",2,"Mildly Increased",3.5,"Borderline High",1,"Poor",0.9,4.3,44
+75,"M",59,"56-65",10.9,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.2,56
+118,"M",55,"46-55",6.8,"Diabetic",29,"Overweight",5.5,"Borderline High",1.5,"Normal",4.1,"Borderline High",0.7,"Poor",0.7,5.7,76
+307,"M",57,"56-65",7.9,"Diabetic",36,"Obesity",3.7,"Normal",2.9,"Mildly Increased",5.5,"Very High",1.1,"Better",1.3,5.3,66
+339,"M",77,"66-80",7.2,"Diabetic",29,"Overweight",3.2,"Normal",1.1,"Normal",2,"Optimal",0.8,"Poor",0.5,6.2,99
+372,"F",54,"46-55",8,"Diabetic",33,"Obesity",4.8,"Normal",2,"Mildly Increased",1.6,"Optimal (High Risk)",2.4,"Best",0.9,3.5,66
+389,"M",77,"66-80",7.2,"Diabetic",29,"Overweight",3.2,"Normal",1.1,"Normal",2,"Optimal",0.8,"Poor",0.5,6.2,99
+392,"M",55,"46-55",7.2,"Diabetic",31,"Obesity",3.2,"Normal",1.9,"Mildly Increased",1.8,"Optimal (High Risk)",0.6,"Poor",0.8,3.7,93
+395,"F",54,"46-55",11,"Diabetic",31,"Obesity",3.4,"Normal",3,"Mildly Increased",3.5,"Borderline High",0.9,"Poor",0.9,4.3,55
+398,"M",57,"56-65",7.9,"Diabetic",36,"Obesity",3.7,"Normal",2.9,"Mildly Increased",5.5,"Very High",1.1,"Better",1.3,5.3,66
+401,"M",55,"46-55",7.7,"Diabetic",32.9,"Obesity",4.7,"Normal",1.19,"Normal",3.1,"Near Optimal",1.1,"Better",8.1,5.66,61
+404,"M",60,"56-65",4.8,"Diabetic",35,"Obesity",4.8,"Normal",1.6,"Normal",1.2,"Optimal (High Risk)",0.8,"Poor",0.5,6.2,87
+407,"F",54,"46-55",8,"Diabetic",33,"Obesity",4.8,"Normal",2,"Mildly Increased",1.6,"Optimal (High Risk)",2.4,"Best",0.9,3.5,66
+410,"F",54,"46-55",7.6,"Diabetic",27.3,"Overweight",5.4,"Borderline High",2,"Mildly Increased",3.5,"Borderline High",1,"Poor",0.9,4.3,44
+413,"F",54,"46-55",7.6,"Diabetic",30,"Obesity",5.4,"Borderline High",2,"Mildly Increased",3.5,"Borderline High",1,"Poor",0.9,4.3,44
+416,"M",55,"46-55",6.8,"Diabetic",29,"Overweight",5.5,"Borderline High",1.5,"Normal",4.1,"Borderline High",0.7,"Poor",0.7,5.7,76
+419,"M",55,"46-55",6.8,"Diabetic",29,"Overweight",5.5,"Borderline High",1.5,"Normal",4.1,"Borderline High",0.7,"Poor",0.7,5.7,76
+483,"F",54,"46-55",7.6,"Diabetic",27.3,"Overweight",5.4,"Borderline High",2,"Mildly Increased",3.5,"Borderline High",1,"Poor",0.9,4.3,44
+516,"M",55,"46-55",7.2,"Diabetic",31,"Obesity",3.2,"Normal",1.9,"Mildly Increased",1.8,"Optimal (High Risk)",0.6,"Poor",0.8,3.7,93
+530,"M",55,"46-55",6.8,"Diabetic",29,"Overweight",5.5,"Borderline High",1.5,"Normal",4.1,"Borderline High",0.7,"Poor",0.7,5.7,76
+563,"M",60,"56-65",4.8,"Diabetic",35,"Obesity",4.8,"Normal",1.6,"Normal",1.2,"Optimal (High Risk)",0.8,"Poor",0.5,6.2,87
+615,"M",55,"46-55",7.7,"Diabetic",32.9,"Obesity",4.7,"Normal",1.19,"Normal",3.1,"Near Optimal",1.1,"Better",8.1,5.66,61
+422,"M",55,"46-55",10.9,"Diabetic",43.25,"Severe Obesity",3.5,"Normal",3.2,"Mildly Increased",1.3,"Optimal (High Risk)",0.9,"Poor",22.2,6.66,73
+425,"M",60,"56-65",6.8,"Diabetic",33,"Obesity",5.5,"Borderline High",1.5,"Normal",4.1,"Borderline High",0.7,"Poor",0.7,5.7,76
+428,"M",55,"46-55",7,"Diabetic",39.18,"Obesity",5.6,"Borderline High",1.91,"Mildly Increased",3.5,"Borderline High",1.3,"Better",13.1,3.66,67
+628,"M",55,"46-55",7,"Diabetic",39.18,"Obesity",5.6,"Borderline High",1.91,"Mildly Increased",3.5,"Borderline High",1.3,"Better",13.1,3.66,67
+635,"M",55,"46-55",10.9,"Diabetic",43.25,"Severe Obesity",3.5,"Normal",3.2,"Mildly Increased",1.3,"Optimal (High Risk)",0.9,"Poor",22.2,6.66,73
+783,"M",60,"56-65",6.8,"Diabetic",33,"Obesity",5.5,"Borderline High",1.5,"Normal",4.1,"Borderline High",0.7,"Poor",0.7,5.7,76
+431,"F",61,"56-65",8.2,"Diabetic",39,"Obesity",3.8,"Normal",3,"Mildly Increased",1.7,"Optimal (High Risk)",0.9,"Poor",1.3,10.5,111
+432,"F",63,"56-65",7.4,"Diabetic",38,"Obesity",7.1,"High",4.1,"Mildly Increased",3.8,"Borderline High",1.5,"Better",1,2.4,66
+434,"F",63,"56-65",7.4,"Diabetic",38,"Obesity",7.1,"High",4.1,"Mildly Increased",3.8,"Borderline High",1.5,"Better",1,2.4,66
+437,"M",55,"46-55",9.1,"Diabetic",30,"Obesity",3.7,"Normal",1.9,"Mildly Increased",2.3,"Optimal",0.7,"Poor",0.9,7,56
+440,"F",55,"46-55",4.3,"Diabetic",37,"Obesity",4.6,"Normal",0.7,"Normal",1.1,"Optimal (High Risk)",1.8,"Best",1.3,3,41
+443,"F",52,"46-55",8.5,"Diabetic",33,"Obesity",8.5,"High",0.8,"Normal",1.3,"Optimal (High Risk)",6.6,"Best",1.3,6.4,88
+486,"M",55,"46-55",9.1,"Diabetic",30,"Obesity",3.7,"Normal",1.9,"Mildly Increased",2.3,"Optimal",0.7,"Poor",0.9,7,56
+707,"F",55,"46-55",4.3,"Diabetic",37,"Obesity",4.6,"Normal",0.7,"Normal",1.1,"Optimal (High Risk)",1.8,"Best",1.3,3,41
+787,"F",52,"46-55",8.5,"Diabetic",33,"Obesity",8.5,"High",0.8,"Normal",1.3,"Optimal (High Risk)",6.6,"Best",1.3,6.4,88
+62,"M",55,"46-55",9.1,"Diabetic",27,"Overweight",3.7,"Normal",1.9,"Mildly Increased",2.3,"Optimal",0.7,"Poor",0.9,7,56
+444,"M",55,"46-55",8,"Diabetic",30,"Obesity",4,"Normal",2.6,"Mildly Increased",1.7,"Optimal (High Risk)",1.2,"Better",1.7,3.2,56
+446,"M",55,"46-55",9.1,"Diabetic",27,"Overweight",3.7,"Normal",1.9,"Mildly Increased",2.3,"Optimal",0.7,"Poor",0.9,7,56
+449,"M",55,"46-55",8,"Diabetic",30,"Obesity",4,"Normal",2.6,"Mildly Increased",1.7,"Optimal (High Risk)",1.2,"Better",1.7,3.2,56
+511,"F",51,"46-55",6.5,"Diabetic",32,"Obesity",4.1,"Normal",2.1,"Mildly Increased",2.5,"Optimal",0.7,"Poor",0.9,5.6,49
+598,"M",61,"56-65",8.2,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.9,56
+651,"F",58,"56-65",11.4,"Diabetic",26,"Overweight",4.1,"Normal",1,"Normal",1.7,"Optimal (High Risk)",0.9,"Poor",1.7,3.9,40
+63,"F",66,"66-80",9.9,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,5.5,56
+478,"M",54,"46-55",8.2,"Diabetic",29,"Overweight",2.3,"Normal",0.7,"Normal",1.2,"Optimal (High Risk)",0.8,"Poor",0.3,6.3,87
+601,"M",55,"46-55",7.6,"Diabetic",34.5,"Obesity",6.5,"High",2.1,"Mildly Increased",4.3,"High",1.3,"Better",14.5,4.16,60
+33,"M",62,"56-65",9.5,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4.1,63
+74,"M",55,"46-55",8,"Diabetic",27,"Overweight",4.3,"Normal",1.6,"Normal",3.6,"Borderline High",0.8,"Poor",0.6,5.5,74
+92,"M",54,"46-55",9.3,"Diabetic",28,"Overweight",5.3,"Borderline High",3.3,"Mildly Increased",1.4,"Optimal (High Risk)",1,"Better",1.3,3.4,38
+156,"F",60,"56-65",8.7,"Diabetic",27,"Overweight",5.2,"Borderline High",2.1,"Mildly Increased",3.6,"Borderline High",0.8,"Poor",0.9,4.5,39
+549,"M",53,"46-55",9,"Diabetic",29,"Overweight",8.8,"High",4.3,"Mildly Increased",3.5,"Borderline High",1.5,"Better",1.2,5.6,72
+578,"M",52,"46-55",7.9,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.4,56
+417,"M",61,"56-65",9,"Diabetic",30,"Obesity",3.9,"Normal",0.7,"Normal",2.8,"Near Optimal",0.8,"Poor",0.3,3,39
+445,"M",60,"56-65",11,"Diabetic",31,"Obesity",4.5,"Normal",1.7,"Normal",2.9,"Near Optimal",0.9,"Poor",0.7,5.1,60
+467,"F",52,"46-55",8.1,"Diabetic",36,"Obesity",4.2,"Normal",2,"Mildly Increased",2.6,"Optimal",0.7,"Poor",0.9,7.6,84
+738,"F",56,"56-65",11.7,"Diabetic",33,"Obesity",5.5,"Borderline High",5.3,"Mildly Increased",1.3,"Optimal (High Risk)",0.9,"Poor",1.2,1.9,20
+49,"M",54,"46-55",8.2,"Diabetic",34,"Obesity",2.3,"Normal",0.7,"Normal",1.2,"Optimal (High Risk)",0.8,"Poor",0.3,6.3,87
+238,"M",60,"56-65",12,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4,63
+594,"M",58,"56-65",7.5,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,5.2,63
+608,"M",55,"46-55",9.7,"Diabetic",33.6,"Obesity",4.1,"Normal",2.03,"Mildly Increased",2.2,"Optimal",1.08,"Better",14,3.33,79
+771,"F",59,"56-65",8,"Diabetic",35,"Obesity",6.3,"High",2.7,"Mildly Increased",1.6,"Optimal (High Risk)",0.9,"Poor",0.3,3.5,48
+158,"M",61,"56-65",8.2,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.9,56
+587,"M",54,"46-55",10.1,"Diabetic",33,"Obesity",5.2,"Borderline High",2.3,"Mildly Increased",0.9,"Optimal (High Risk)",0.9,"Poor",1.1,6.1,63
+653,"F",57,"56-65",9.4,"Diabetic",39,"Obesity",5.1,"Normal",2.4,"Mildly Increased",2,"Optimal",0.8,"Poor",1.1,4.5,73
+22,"F",54,"46-55",7.9,"Diabetic",38,"Obesity",4.8,"Normal",2.4,"Mildly Increased",2,"Optimal",1.8,"Best",1.1,8.5,59
+220,"M",60,"56-65",9,"Diabetic",37,"Obesity",4.5,"Normal",1.6,"Normal",2,"Optimal",6.3,"Best",1,5.1,59
+234,"F",55,"46-55",11,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,4,72
+241,"M",60,"56-65",9.4,"Diabetic",33,"Obesity",4.1,"Normal",1.6,"Normal",5.6,"Very High",1.1,"Better",1,4.5,62
+593,"F",61,"56-65",10.3,"Diabetic",32,"Obesity",7.3,"High",3.3,"Mildly Increased",3.1,"Near Optimal",1,"Poor",1.5,5.2,64
+196,"F",55,"46-55",7.3,"Diabetic",29,"Overweight",4.1,"Normal",3.3,"Mildly Increased",2.1,"Optimal",0.9,"Poor",1.5,2.7,53
+300,"M",63,"56-65",9,"Diabetic",26,"Overweight",4.2,"Normal",3.4,"Mildly Increased",2,"Optimal",0.9,"Poor",1,4.3,42
+396,"M",55,"46-55",6.8,"Diabetic",27,"Overweight",4.9,"Normal",2.2,"Mildly Increased",3.3,"Near Optimal",0.7,"Poor",1,4.6,54
+447,"M",52,"46-55",9,"Diabetic",28,"Overweight",5.9,"Borderline High",3.5,"Mildly Increased",3.6,"Borderline High",0.7,"Poor",1.6,4.4,61
+495,"F",51,"46-55",8.3,"Diabetic",29,"Overweight",4,"Normal",2.8,"Mildly Increased",2.1,"Optimal",0.7,"Poor",1.2,3,41
+629,"F",58,"56-65",7.3,"Diabetic",30,"Obesity",4.8,"Normal",3.3,"Mildly Increased",2.6,"Optimal",0.9,"Poor",1.5,2.7,53
+748,"F",55,"46-55",8,"Diabetic",31,"Obesity",4.6,"Normal",2.2,"Mildly Increased",2.4,"Optimal",0.9,"Poor",1,4.4,68
+769,"F",54,"46-55",8.9,"Diabetic",36,"Obesity",4.6,"Normal",2.6,"Mildly Increased",1.3,"Optimal (High Risk)",0.9,"Poor",1,8.6,75
+51,"M",51,"46-55",8,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,6.1,56
+111,"F",58,"56-65",9.3,"Diabetic",31,"Obesity",5.8,"Borderline High",3.6,"Mildly Increased",1.9,"Optimal",1.1,"Poor",0.6,5,62
+202,"F",63,"56-65",8.9,"Diabetic",28,"Overweight",4.8,"Normal",1.5,"Normal",3.1,"Near Optimal",1,"Poor",0.6,4.8,52
+657,"M",53,"46-55",8,"Diabetic",33,"Obesity",6.4,"High",3.5,"Mildly Increased",2,"Optimal",1.7,"Best",1,7.8,64
+112,"F",61,"56-65",8.5,"Diabetic",35,"Obesity",4.8,"Normal",2.2,"Mildly Increased",2,"Optimal",1.4,"Better",1,4.1,55
+151,"M",54,"46-55",7.3,"Diabetic",29,"Overweight",3.6,"Normal",1.7,"Normal",2.1,"Optimal",0.8,"Poor",0.7,4.7,78
+757,"M",60,"56-65",7.7,"Diabetic",33,"Obesity",4.2,"Normal",4.9,"Mildly Increased",1.7,"Optimal (High Risk)",1.6,"Best",1,3,55
+261,"M",52,"46-55",11,"Diabetic",39,"Obesity",3.4,"Normal",1.2,"Normal",3.6,"Borderline High",0.9,"Poor",1,3.9,44
+265,"M",56,"56-65",7.7,"Diabetic",38,"Obesity",4.4,"Normal",3.3,"Mildly Increased",2.1,"Optimal",0.9,"Poor",1.5,2,55
+336,"M",55,"46-55",8.9,"Diabetic",30,"Obesity",5.3,"Borderline High",3.3,"Mildly Increased",3.1,"Near Optimal",0.95,"Poor",1.5,5.5,72
+355,"F",59,"56-65",7.6,"Diabetic",37,"Obesity",5.9,"Borderline High",2.1,"Mildly Increased",1.7,"Optimal (High Risk)",1.6,"Best",1.5,5.1,87
+542,"M",53,"46-55",7.7,"Diabetic",32,"Obesity",4.4,"Normal",3.3,"Mildly Increased",2.1,"Optimal",0.9,"Poor",1.5,2,55
+613,"M",55,"46-55",6.9,"Diabetic",34.05,"Obesity",4.8,"Normal",2.2,"Mildly Increased",2.8,"Near Optimal",1.1,"Better",15.4,4,71
+683,"F",54,"46-55",8,"Diabetic",33,"Obesity",5.2,"Borderline High",3.4,"Mildly Increased",1.5,"Optimal (High Risk)",3.2,"Best",1.5,6,61
+30,"F",54,"46-55",7.9,"Diabetic",33,"Obesity",2,"Normal",1.9,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.7,1.2,25
+244,"F",57,"56-65",8.6,"Diabetic",32,"Obesity",3.3,"Normal",1.4,"Normal",1.6,"Optimal (High Risk)",1.1,"Poor",0.6,7.7,62
+406,"M",54,"46-55",8,"Diabetic",26,"Overweight",4.5,"Normal",2.2,"Mildly Increased",3.1,"Near Optimal",0.5,"Poor",1,3.7,87
+408,"M",57,"56-65",7.3,"Diabetic",30.1,"Obesity",6.1,"Borderline High",4.3,"Mildly Increased",3.7,"Borderline High",1.2,"Better",1.9,6.4,75
+793,"M",60,"56-65",9,"Diabetic",27,"Overweight",4.4,"Normal",2,"Mildly Increased",3,"Near Optimal",0.6,"Poor",0.9,2.7,35
+798,"M",60,"56-65",9,"Diabetic",27,"Overweight",4.4,"Normal",2,"Mildly Increased",3,"Near Optimal",0.6,"Poor",0.9,2.7,35
+13,"F",60,"56-65",6.8,"Diabetic",28,"Overweight",5.1,"Normal",2.1,"Mildly Increased",3,"Near Optimal",1.1,"Poor",1,5.4,47
+17,"M",61,"56-65",8.9,"Diabetic",29,"Overweight",6.8,"High",4.3,"Mildly Increased",3.9,"Borderline High",1.2,"Better",1.9,3.8,62
+45,"M",57,"56-65",9.7,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4.1,63
+192,"M",63,"56-65",6.4,"Diabetic",30,"Obesity",4.8,"Normal",2,"Mildly Increased",2,"Optimal",1.4,"Better",0.9,3.9,58
+346,"M",55,"46-55",7.8,"Diabetic",33,"Obesity",4.2,"Normal",3.7,"Mildly Increased",1.3,"Optimal (High Risk)",1.2,"Better",1.7,4,71
+384,"F",52,"46-55",11.3,"Diabetic",30,"Obesity",6.9,"High",2.6,"Mildly Increased",2,"Optimal",1.2,"Poor",1.1,8.6,87
+460,"M",55,"46-55",10.2,"Diabetic",31,"Obesity",3.9,"Normal",2,"Mildly Increased",1.5,"Optimal (High Risk)",1.5,"Better",0.9,8.6,73
+5,"M",63,"56-65",8.1,"Diabetic",28,"Overweight",6,"Borderline High",2.2,"Mildly Increased",4,"Borderline High",1.1,"Better",1,7,84
+54,"F",63,"56-65",9.3,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,4.2,72
+387,"M",56,"56-65",8.6,"Diabetic",33,"Obesity",5,"Normal",1.7,"Normal",1.9,"Optimal",1.45,"Better",0.7,5,84
+761,"F",52,"46-55",10.1,"Diabetic",36,"Obesity",5.2,"Borderline High",3.3,"Mildly Increased",1.7,"Optimal (High Risk)",0.9,"Poor",1.5,3.6,46
+763,"F",51,"46-55",6.8,"Diabetic",33,"Obesity",2.9,"Normal",1,"Normal",1.7,"Optimal (High Risk)",1,"Poor",1.5,3.1,36
+262,"M",55,"46-55",10,"Diabetic",30,"Obesity",4.9,"Normal",0.7,"Normal",3.4,"Borderline High",1.2,"Better",0.4,4.1,86
+397,"M",55,"46-55",11.7,"Diabetic",30,"Obesity",3.9,"Normal",0.6,"Normal",2.3,"Optimal",1.3,"Better",0.2,2.7,39
+681,"F",58,"56-65",9,"Diabetic",35,"Obesity",5.5,"Borderline High",3.2,"Mildly Increased",1.4,"Optimal (High Risk)",3.2,"Best",1.5,4.5,53
+749,"M",55,"46-55",10,"Diabetic",33,"Obesity",4.9,"Normal",0.7,"Normal",3.4,"Borderline High",1.2,"Better",0.4,4.1,86
+321,"F",54,"46-55",10.7,"Diabetic",39,"Obesity",5.6,"Borderline High",3,"Mildly Increased",4.2,"High",1.1,"Poor",1.4,2.5,35
+381,"M",58,"56-65",8,"Diabetic",29,"Overweight",4.3,"Normal",2.4,"Mildly Increased",2,"Optimal",0.9,"Poor",1.1,5.9,61
+727,"M",53,"46-55",5.8,"Diabetic",38,"Obesity",5.4,"Borderline High",2.2,"Mildly Increased",0.95,"Optimal (High Risk)",1.6,"Best",1.5,5.5,60
+27,"M",52,"46-55",7.9,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.4,56
+175,"F",69,"66-80",10.5,"Diabetic",32,"Obesity",5.3,"Borderline High",3.8,"Mildly Increased",2.3,"Optimal",1.4,"Better",1.7,14.5,243
+286,"M",61,"56-65",7.2,"Diabetic",37,"Obesity",5.8,"Borderline High",3.9,"Mildly Increased",3.1,"Near Optimal",1,"Better",1.8,3.1,42
+512,"M",51,"46-55",7.7,"Diabetic",30,"Obesity",3,"Normal",0.3,"Normal",1.5,"Optimal (High Risk)",1.3,"Better",0.1,4.9,56
+555,"M",60,"56-65",8.7,"Diabetic",33,"Obesity",5,"Normal",1.8,"Mildly Increased",1,"Optimal (High Risk)",1.1,"Better",0.8,14.5,179
+94,"M",52,"46-55",8.8,"Diabetic",32,"Obesity",3.5,"Normal",2,"Mildly Increased",0.9,"Optimal (High Risk)",2,"Best",1.5,3.4,52
+249,"M",55,"46-55",8.9,"Diabetic",27,"Overweight",5.3,"Borderline High",3.1,"Mildly Increased",3.3,"Near Optimal",0.7,"Poor",1.4,4.2,57
+295,"F",56,"56-65",9,"Diabetic",26,"Overweight",4,"Normal",5.1,"Mildly Increased",0.96,"Optimal (High Risk)",1.75,"Best",2.2,3.8,42
+394,"M",56,"56-65",8,"Diabetic",26,"Overweight",5.1,"Normal",2.5,"Mildly Increased",3.4,"Borderline High",0.7,"Poor",1.1,5.9,68
+638,"M",55,"46-55",9.9,"Diabetic",30.1,"Obesity",5.3,"Borderline High",3.3,"Mildly Increased",3.1,"Near Optimal",0.9,"Poor",22.7,3.66,61
+737,"M",59,"56-65",8.9,"Diabetic",27,"Overweight",5.3,"Borderline High",3.1,"Mildly Increased",3.3,"Near Optimal",0.7,"Poor",1.4,4.2,57
+14,"F",64,"56-65",7.9,"Diabetic",33,"Obesity",5.3,"Borderline High",3.1,"Mildly Increased",3.1,"Near Optimal",0.9,"Poor",1.4,2,35
+105,"F",56,"56-65",8.1,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,5.1,72
+333,"F",54,"46-55",10.2,"Diabetic",28,"Overweight",4.7,"Normal",1.2,"Normal",1.7,"Optimal (High Risk)",1.6,"Best",1.5,3.8,50
+369,"M",57,"56-65",6.3,"Diabetic",29,"Overweight",4.2,"Normal",3.9,"Mildly Increased",1.3,"Optimal (High Risk)",1.4,"Better",1.5,8.9,120
+385,"M",54,"46-55",9.5,"Diabetic",30,"Obesity",6.1,"Borderline High",2.3,"Mildly Increased",1.4,"Optimal (High Risk)",1.3,"Better",1.5,6.7,97
+649,"F",60,"56-65",7.4,"Diabetic",31,"Obesity",2.6,"Normal",2.7,"Mildly Increased",1.2,"Optimal (High Risk)",0.9,"Poor",1.5,4.9,51
+677,"F",60,"56-65",8.3,"Diabetic",36,"Obesity",5.9,"Borderline High",2,"Mildly Increased",1.5,"Optimal (High Risk)",1,"Poor",1.5,3.6,36
+784,"F",61,"56-65",8,"Diabetic",33,"Obesity",4.2,"Normal",0.9,"Normal",1.3,"Optimal (High Risk)",1.6,"Best",1.5,4.1,45
+38,"F",54,"46-55",7.7,"Diabetic",33,"Obesity",6.3,"High",5.4,"Mildly Increased",3.3,"Near Optimal",0.8,"Poor",2.4,11.3,130
+84,"F",60,"56-65",13.1,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4.1,56
+557,"M",55,"46-55",8.3,"Diabetic",33,"Obesity",4.8,"Normal",3.1,"Mildly Increased",2.4,"Optimal",0.4,"Poor",1.4,4.2,68
+604,"M",66,"66-80",10.9,"Diabetic",27.75,"Overweight",9.3,"High",5.1,"Mildly Increased",6.4,"Very High",0.9,"Poor",35,5.5,73
+439,"M",52,"46-55",10.2,"Diabetic",39,"Obesity",5.9,"Borderline High",2.9,"Mildly Increased",3.6,"Borderline High",1,"Better",1.3,4.9,68
+493,"F",51,"46-55",7.2,"Diabetic",38,"Obesity",7.2,"High",5.3,"Mildly Increased",3.8,"Borderline High",1,"Poor",2.4,4.1,78
+606,"M",55,"46-55",6.5,"Diabetic",35.2,"Obesity",4.7,"Normal",2.1,"Mildly Increased",2.7,"Near Optimal",1.1,"Better",31,5,73
+376,"F",56,"56-65",10.8,"Diabetic",26,"Overweight",4.2,"Normal",2.2,"Mildly Increased",2.2,"Optimal",1,"Poor",1,5.6,45
+617,"M",55,"46-55",7.5,"Diabetic",36.11,"Obesity",7.3,"High",1.6,"Normal",5.5,"Very High",1.2,"Better",11.3,4.66,70
+216,"M",55,"46-55",8,"Diabetic",33,"Obesity",6.7,"High",3.7,"Mildly Increased",2,"Optimal",1.7,"Best",1.5,22,145
+477,"M",54,"46-55",6,"Diabetic",32,"Obesity",2.9,"Normal",1.2,"Normal",1.4,"Optimal (High Risk)",1,"Better",0.5,3,40
+775,"M",53,"46-55",8.8,"Diabetic",26,"Overweight",4.8,"Normal",1.3,"Normal",1.6,"Optimal (High Risk)",1.7,"Best",2,2.7,38
+32,"M",68,"66-80",9.4,"Diabetic",31,"Obesity",3.7,"Normal",3.7,"Mildly Increased",1.4,"Optimal (High Risk)",0.8,"Poor",1.6,7.1,79
+232,"M",61,"56-65",8,"Diabetic",27,"Overweight",6,"Borderline High",3.1,"Mildly Increased",3.7,"Borderline High",1,"Better",1.4,3,42
+480,"M",53,"46-55",7.8,"Diabetic",33,"Obesity",4.9,"Normal",2.1,"Mildly Increased",3.2,"Near Optimal",0.9,"Poor",0.9,5.2,59
+487,"F",60,"56-65",6.6,"Diabetic",28,"Overweight",2.8,"Normal",2.7,"Mildly Increased",1.1,"Optimal (High Risk)",0.5,"Poor",1.2,5.9,41
+767,"M",52,"46-55",8.3,"Diabetic",29,"Overweight",6.8,"High",3.7,"Mildly Increased",1.7,"Optimal (High Risk)",0.9,"Poor",1.6,11,26
+2,"M",60,"56-65",7.6,"Diabetic",36.6,"Obesity",3.3,"Normal",1.7,"Normal",1.7,"Optimal (High Risk)",0.9,"Poor",0.8,2.1,56
+279,"M",51,"46-55",10.8,"Diabetic",36.6,"Obesity",3.9,"Normal",1.2,"Normal",2.3,"Optimal",1.1,"Better",0.5,5.5,75
+618,"M",55,"46-55",7.2,"Diabetic",38.62,"Obesity",4,"Normal",2.3,"Mildly Increased",2.04,"Optimal",1.05,"Better",16.3,3.33,68
+52,"M",53,"46-55",7.8,"Diabetic",30,"Obesity",4.9,"Normal",2.1,"Mildly Increased",3.2,"Near Optimal",0.9,"Poor",0.9,5.2,59
+409,"F",59,"56-65",11.8,"Diabetic",31,"Obesity",3.1,"Normal",2.2,"Mildly Increased",2.8,"Near Optimal",2.4,"Best",1,3.1,66
+609,"M",54,"46-55",9.3,"Diabetic",36,"Obesity",3.8,"Normal",1,"Normal",1,"Optimal (High Risk)",1.8,"Best",0.4,5,59
+469,"F",57,"56-65",10.6,"Diabetic",33,"Obesity",5.9,"Borderline High",1.6,"Normal",4,"Borderline High",1.2,"Poor",0.7,3.7,36
+28,"F",54,"46-55",12,"Diabetic",35,"Obesity",4.4,"Normal",1.3,"Normal",2,"Optimal",1.9,"Best",0.5,3.4,52
+103,"M",51,"46-55",6.7,"Diabetic",34,"Obesity",4.6,"Normal",1.2,"Normal",2.8,"Near Optimal",1.3,"Better",0.5,3.2,49
+104,"M",60,"56-65",2,"Diabetic",33,"Obesity",5.2,"Borderline High",2,"Mildly Increased",1.8,"Optimal (High Risk)",1.6,"Best",1,5.6,74
+378,"F",60,"56-65",6.3,"Diabetic",39,"Obesity",5.2,"Borderline High",1.5,"Normal",1.8,"Optimal (High Risk)",1.6,"Best",1,5.1,45
+481,"M",61,"56-65",7.5,"Diabetic",38,"Obesity",4.5,"Normal",1.8,"Mildly Increased",2.7,"Near Optimal",1,"Better",0.8,0.5,59
+522,"M",55,"46-55",6.7,"Diabetic",30.2,"Obesity",4.6,"Normal",1.2,"Normal",2.8,"Near Optimal",1.3,"Better",0.5,3.2,49
+776,"F",63,"56-65",9.8,"Diabetic",37,"Obesity",3.9,"Normal",0.8,"Normal",1.9,"Optimal",1.8,"Best",1,6.1,46
+267,"M",55,"46-55",11.8,"Diabetic",33,"Obesity",5.1,"Normal",1.2,"Normal",3.6,"Borderline High",1,"Better",0.5,2.6,48
+280,"F",52,"46-55",9,"Diabetic",32,"Obesity",3.1,"Normal",1,"Normal",1.9,"Optimal",0.8,"Poor",0.5,3.3,37
+382,"M",51,"46-55",14.7,"Diabetic",26,"Overweight",2.6,"Normal",1.1,"Normal",1.5,"Optimal (High Risk)",0.6,"Poor",0.5,3.4,40
+544,"M",55,"46-55",11.8,"Diabetic",30,"Obesity",5.1,"Normal",1.2,"Normal",3.6,"Borderline High",1,"Better",1.6,2.6,48
+559,"F",58,"56-65",11.9,"Diabetic",27,"Overweight",4.4,"Normal",1.6,"Normal",4.1,"Borderline High",1,"Poor",1,3,50
+624,"M",55,"46-55",6.7,"Diabetic",29,"Overweight",2.5,"Normal",4.9,"Mildly Increased",0.5,"Optimal (High Risk)",0.8,"Poor",33.6,6.66,61
+762,"M",55,"46-55",7.1,"Diabetic",28,"Overweight",2.7,"Normal",1,"Normal",1.4,"Optimal (High Risk)",0.8,"Poor",0.5,7.8,99
+29,"F",64,"56-65",7.3,"Diabetic",31,"Obesity",3.5,"Normal",1.4,"Normal",1.7,"Optimal (High Risk)",1.1,"Poor",0.6,5.3,48
+117,"M",55,"46-55",7.4,"Diabetic",35,"Obesity",4.4,"Normal",1.3,"Normal",2.5,"Optimal",1,"Better",0.9,6.5,72
+155,"M",55,"46-55",7.9,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.4,56
+80,"M",54,"46-55",8.1,"Diabetic",29,"Overweight",5.2,"Borderline High",3.3,"Mildly Increased",2,"Optimal",1.4,"Better",1.5,5.4,84
+499,"F",53,"46-55",8.6,"Diabetic",30,"Obesity",6.2,"High",1.7,"Normal",4.3,"High",1.1,"Poor",0.8,4.7,53
+773,"F",56,"56-65",9.2,"Diabetic",30,"Obesity",4.1,"Normal",0.6,"Normal",1.4,"Optimal (High Risk)",1.3,"Better",0.9,4,45
+268,"F",55,"46-55",7.7,"Diabetic",29,"Overweight",3.4,"Normal",0.7,"Normal",2.1,"Optimal",1,"Poor",0.4,4.4,48
+271,"M",67,"66-80",7.1,"Diabetic",29.63,"Overweight",2.7,"Normal",1,"Normal",1.4,"Optimal (High Risk)",0.8,"Poor",0.5,7.8,99
+288,"M",61,"56-65",10.9,"Diabetic",31,"Obesity",4.9,"Normal",1.7,"Normal",3.2,"Near Optimal",1,"Better",0.7,7.8,89
+403,"F",56,"56-65",9.8,"Diabetic",27,"Overweight",6.1,"Borderline High",3.2,"Mildly Increased",4.1,"Borderline High",0.7,"Poor",1.4,7.7,68
+679,"F",60,"56-65",9,"Diabetic",36,"Obesity",5.8,"Borderline High",2,"Mildly Increased",2,"Optimal",1.4,"Better",1.5,3.7,53
+755,"F",52,"46-55",7.7,"Diabetic",33,"Obesity",3.4,"Normal",0.7,"Normal",2.1,"Optimal",1,"Poor",0.4,4.4,48
+766,"F",56,"56-65",9.1,"Diabetic",35,"Obesity",5.6,"Borderline High",5.8,"Moderately Increased",1.7,"Optimal (High Risk)",1.6,"Best",1,5.6,46
+142,"F",59,"56-65",8.1,"Diabetic",33,"Obesity",5.5,"Borderline High",2.2,"Mildly Increased",2,"Optimal",0.7,"Poor",1.5,6.2,68
+330,"M",54,"46-55",7.5,"Diabetic",39,"Obesity",5.1,"Normal",2,"Mildly Increased",1.4,"Optimal (High Risk)",1.3,"Better",1.5,6.8,73
+720,"F",57,"56-65",9,"Diabetic",38,"Obesity",4.5,"Normal",4.1,"Mildly Increased",2.3,"Optimal",0.7,"Poor",1.9,4.5,68
+70,"M",54,"46-55",8,"Diabetic",37,"Obesity",5,"Normal",6.7,"Moderately Increased",2.6,"Optimal",0.9,"Poor",2.6,5.3,88
+538,"M",60,"56-65",9,"Diabetic",33,"Obesity",5.1,"Normal",3,"Mildly Increased",2.6,"Optimal",1.1,"Better",1.3,3.3,73
+556,"F",67,"66-80",13.1,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4.5,56
+695,"F",60,"56-65",8.3,"Diabetic",32,"Obesity",4.3,"Normal",3,"Mildly Increased",2.5,"Optimal",1.4,"Better",2,3.8,34
+774,"F",61,"56-65",8,"Diabetic",26,"Overweight",6.6,"High",4.5,"Mildly Increased",0.9,"Optimal (High Risk)",1.6,"Best",2,13.2,98
+53,"M",63,"56-65",9.4,"Diabetic",27,"Overweight",4,"Normal",0.9,"Normal",4,"Borderline High",0.9,"Poor",0.4,6.6,64
+136,"F",61,"56-65",7,"Diabetic",30,"Obesity",4.3,"Normal",2.9,"Mildly Increased",2.7,"Near Optimal",0.4,"Poor",1.3,24,401
+363,"F",55,"46-55",6.3,"Diabetic",28,"Overweight",4.3,"Normal",2.9,"Mildly Increased",2.7,"Near Optimal",0.4,"Poor",1.3,24,401
+501,"M",52,"46-55",8.8,"Diabetic",29,"Overweight",5.3,"Borderline High",2.5,"Mildly Increased",2.3,"Optimal",1.1,"Better",1.1,5.3,56
+540,"F",61,"56-65",7,"Diabetic",36.6,"Obesity",4.3,"Normal",2.9,"Mildly Increased",2.7,"Near Optimal",0.4,"Poor",1.3,24,401
+592,"M",54,"46-55",8.5,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.1,56
+603,"M",51,"46-55",7.1,"Diabetic",30,"Obesity",4.2,"Normal",1.9,"Mildly Increased",1.1,"Optimal (High Risk)",0.9,"Poor",0.8,4,95
+167,"M",58,"56-65",7.5,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,5.2,63
+289,"M",52,"46-55",7.8,"Diabetic",28,"Overweight",4.9,"Normal",4.9,"Mildly Increased",2.8,"Near Optimal",0.9,"Poor",2.2,5.3,95
+550,"F",51,"46-55",11.2,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,4.2,72
+558,"F",61,"56-65",11.5,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,5.1,72
+584,"M",59,"56-65",10.5,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,4.2,56
+66,"F",67,"66-80",13.1,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4.5,56
+95,"F",55,"46-55",3.7,"Diabetic",26,"Overweight",6.1,"Borderline High",1.6,"Normal",4,"Borderline High",1.4,"Better",0.7,4.9,63
+661,"M",58,"56-65",9,"Diabetic",31,"Obesity",4.5,"Normal",2.9,"Mildly Increased",1.5,"Optimal (High Risk)",1.9,"Best",2,10,112
+667,"F",55,"46-55",9.3,"Diabetic",36,"Obesity",5.6,"Borderline High",3.7,"Mildly Increased",1.5,"Optimal (High Risk)",1.3,"Better",2,6.2,52
+78,"M",60,"56-65",12,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4,63
+517,"M",54,"46-55",7.3,"Diabetic",33,"Obesity",5.1,"Normal",1.2,"Normal",1.9,"Optimal",1.8,"Best",0.7,5.8,76
+561,"F",53,"46-55",10.9,"Diabetic",35,"Obesity",7.2,"High",3.4,"Mildly Increased",4.1,"Borderline High",1.8,"Best",1,10.3,83
+585,"F",61,"56-65",12.4,"Diabetic",33,"Obesity",4.7,"Normal",1.5,"Normal",1,"Optimal (High Risk)",0.9,"Poor",0.7,3,40
+116,"M",62,"56-65",12.2,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,5,63
+90,"F",55,"46-55",13.7,"Diabetic",37,"Obesity",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4,56
+164,"M",63,"56-65",7.1,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,5.9,63
+518,"F",55,"46-55",3.7,"Diabetic",34,"Obesity",6.1,"Borderline High",1.6,"Normal",4,"Borderline High",1.4,"Better",0.7,4.9,63
+259,"F",57,"56-65",11.9,"Diabetic",30.1,"Obesity",6.1,"Borderline High",2.6,"Mildly Increased",4.1,"Borderline High",0.9,"Poor",1.1,3.2,31
+747,"F",60,"56-65",11.9,"Diabetic",39,"Obesity",6.1,"Borderline High",2.6,"Mildly Increased",4.1,"Borderline High",0.9,"Poor",1.1,3.2,31
+23,"F",70,"66-80",8.7,"Diabetic",30,"Obesity",5.9,"Borderline High",1.3,"Normal",0.75,"Optimal (High Risk)",1.4,"Better",0.6,5.5,38
+204,"F",54,"46-55",9,"Diabetic",27,"Overweight",5.7,"Borderline High",3.3,"Mildly Increased",3.6,"Borderline High",0.8,"Poor",1.5,5.3,45
+448,"F",66,"66-80",5.7,"Diabetic",30,"Obesity",5.2,"Borderline High",1.4,"Normal",2.3,"Optimal",0.9,"Poor",0.5,4.9,41
+687,"F",52,"46-55",9,"Diabetic",38,"Obesity",5.7,"Borderline High",3.3,"Mildly Increased",1.5,"Optimal (High Risk)",3.6,"Best",1,5.3,45
+298,"M",68,"66-80",12.9,"Diabetic",29,"Overweight",8.8,"High",4.5,"Mildly Increased",5.6,"Very High",1.1,"Better",2.1,7.4,98
+352,"F",55,"46-55",9.5,"Diabetic",26,"Overweight",5.9,"Borderline High",1.7,"Normal",3.6,"Borderline High",1.2,"Poor",0.8,2.9,41
+451,"M",59,"56-65",8.9,"Diabetic",33,"Obesity",4.5,"Normal",1.2,"Normal",3.1,"Near Optimal",0.9,"Poor",0.5,6.8,62
+541,"M",54,"46-55",8.7,"Diabetic",32,"Obesity",5.7,"Borderline High",2.3,"Mildly Increased",2.3,"Optimal",1.1,"Better",1,4.9,66
+553,"M",54,"46-55",12.1,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4.3,63
+565,"F",66,"66-80",9.9,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,5.5,56
+582,"M",62,"56-65",9.5,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4.1,63
+590,"M",57,"56-65",9.7,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4.1,63
+752,"M",57,"56-65",9,"Diabetic",26,"Overweight",3.9,"Normal",1.4,"Normal",2.6,"Optimal",0.7,"Poor",0.6,7.4,43
+121,"M",76,"66-80",10.9,"Diabetic",33,"Obesity",4.6,"Normal",7,"Moderately Increased",1.3,"Optimal (High Risk)",0.6,"Poor",3.1,5.9,56
+170,"M",54,"46-55",12.1,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4.3,63
+309,"F",53,"46-55",12.8,"Diabetic",37,"Obesity",5.1,"Normal",3,"Mildly Increased",2.9,"Near Optimal",0.9,"Poor",1.3,3.3,48
+532,"M",76,"66-80",10.9,"Diabetic",31,"Obesity",4.6,"Normal",7,"Moderately Increased",1.3,"Optimal (High Risk)",0.6,"Poor",3.1,5.9,56
+610,"M",55,"46-55",6.7,"Diabetic",27,"Overweight",4.8,"Normal",2.8,"Mildly Increased",2.7,"Near Optimal",0.9,"Poor",19.5,6.833,64
+659,"F",60,"56-65",10.6,"Diabetic",28,"Overweight",6.7,"High",5.9,"Moderately Increased",1.9,"Optimal",0.9,"Poor",1.5,4.9,45
+724,"F",60,"56-65",9.4,"Diabetic",29,"Overweight",7,"High",2.2,"Mildly Increased",1,"Optimal (High Risk)",0.5,"Poor",1.5,3.8,44
+782,"M",61,"56-65",10.9,"Diabetic",30,"Obesity",4.6,"Normal",7,"Moderately Increased",1.3,"Optimal (High Risk)",0.6,"Poor",3.1,5.9,56
+8,"M",51,"46-55",10.9,"Diabetic",29,"Overweight",3.6,"Normal",1.1,"Normal",2.3,"Optimal",0.8,"Poor",1,3.9,53
+11,"F",54,"46-55",7.6,"Diabetic",31,"Obesity",4.9,"Normal",2.8,"Mildly Increased",3,"Near Optimal",0.8,"Poor",1.2,7,72
+246,"M",56,"56-65",12.4,"Diabetic",26,"Overweight",5,"Normal",2.3,"Mildly Increased",3.2,"Near Optimal",0.8,"Poor",1,6.3,87
+736,"M",63,"56-65",12.4,"Diabetic",31,"Obesity",5,"Normal",2.3,"Mildly Increased",3.2,"Near Optimal",0.8,"Poor",1,6.3,87
+34,"M",55,"46-55",11.7,"Diabetic",36,"Obesity",6,"Borderline High",3.3,"Mildly Increased",3,"Near Optimal",1,"Better",1.3,3.6,74
+93,"M",59,"56-65",10,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,4,56
+240,"M",59,"56-65",10,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,4,56
+128,"M",54,"46-55",8.5,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.1,56
+358,"M",52,"46-55",10.8,"Diabetic",33,"Obesity",4.8,"Normal",2.2,"Mildly Increased",3,"Near Optimal",0.9,"Poor",1,4.1,139
+539,"M",55,"46-55",10.8,"Diabetic",31,"Obesity",4.8,"Normal",2.2,"Mildly Increased",3,"Near Optimal",0.9,"Poor",1,11.1,139
+570,"M",51,"46-55",8,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,6.1,56
+589,"F",60,"56-65",10.7,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,6,72
+791,"M",51,"46-55",9,"Diabetic",35,"Obesity",6.2,"High",1.5,"Normal",1.7,"Optimal (High Risk)",1.6,"Best",1.5,3.7,58
+796,"M",51,"46-55",9,"Diabetic",35,"Obesity",6.2,"High",1.5,"Normal",1.7,"Optimal (High Risk)",1.6,"Best",1.5,3.7,58
+310,"M",55,"46-55",10.6,"Diabetic",36.6,"Obesity",6.2,"High",1.6,"Normal",0.95,"Optimal (High Risk)",1.35,"Better",0.6,6.7,56
+327,"F",62,"56-65",10.7,"Diabetic",29,"Overweight",5.3,"Borderline High",2.7,"Mildly Increased",2.1,"Optimal",0.7,"Poor",1.2,9.6,66
+337,"F",55,"46-55",8.5,"Diabetic",39,"Obesity",4.4,"Normal",1.9,"Mildly Increased",1.6,"Optimal (High Risk)",1.5,"Better",1.5,2.1,39
+360,"F",54,"46-55",11.6,"Diabetic",38,"Obesity",4.7,"Normal",4,"Mildly Increased",2.3,"Optimal",0.8,"Poor",1.8,3.7,38
+361,"F",55,"46-55",8.4,"Diabetic",30,"Obesity",6.3,"High",1.5,"Normal",1.9,"Optimal",2.6,"Best",0.6,2.6,36
+631,"M",55,"46-55",10.2,"Diabetic",30.1,"Obesity",10.3,"High",2.6,"Mildly Increased",5.9,"Very High",1.03,"Better",18.1,6.5,65
+441,"F",53,"46-55",11.5,"Diabetic",37,"Obesity",5.2,"Borderline High",2.2,"Mildly Increased",3.6,"Borderline High",1.2,"Poor",1,3.9,45
+554,"M",55,"46-55",10,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,4.4,56
+562,"M",59,"56-65",10.9,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,5.2,56
+581,"F",56,"56-65",8.1,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,5.1,72
+591,"F",61,"56-65",11.6,"Diabetic",33,"Obesity",9.7,"High",13.8,"Very High",3.1,"Near Optimal",1,"Poor",6.3,2.5,45
+623,"F",60,"56-65",13,"Diabetic",32,"Obesity",6.9,"High",2.7,"Mildly Increased",1.7,"Optimal (High Risk)",1.6,"Best",1.5,4.8,39
+291,"F",59,"56-65",10.6,"Diabetic",30,"Obesity",5.2,"Borderline High",2.6,"Mildly Increased",1.7,"Optimal (High Risk)",1.4,"Better",1.2,4.8,45
+514,"M",55,"46-55",7.5,"Diabetic",29,"Overweight",5.9,"Borderline High",2,"Mildly Increased",4.2,"High",0.8,"Poor",0.9,5.2,67
+586,"F",61,"56-65",12.1,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4.3,56
+507,"M",54,"46-55",9.7,"Diabetic",27,"Overweight",5.4,"Borderline High",2.4,"Mildly Increased",3.6,"Borderline High",0.8,"Poor",1.1,3.4,57
+574,"F",63,"56-65",9.3,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,4.2,72
+235,"M",52,"46-55",10.2,"Diabetic",26,"Overweight",4.7,"Normal",1.7,"Normal",2.8,"Near Optimal",1.2,"Better",0.7,4.7,56
+334,"F",51,"46-55",7.4,"Diabetic",29,"Overweight",5.2,"Borderline High",4.9,"Mildly Increased",0.95,"Optimal (High Risk)",1,"Poor",2.2,2.5,45
+465,"F",56,"56-65",10.2,"Diabetic",27,"Overweight",5.8,"Borderline High",2,"Mildly Increased",1.8,"Optimal (High Risk)",1.1,"Poor",0.9,2.3,22
+513,"M",59,"56-65",12.5,"Diabetic",28,"Overweight",5.7,"Borderline High",2.7,"Mildly Increased",3.3,"Near Optimal",1.2,"Better",1.2,4.5,59
+595,"M",54,"46-55",10.7,"Diabetic",29,"Overweight",4.1,"Normal",2.2,"Mildly Increased",2.2,"Optimal",0.9,"Poor",1,7.4,84
+575,"M",57,"56-65",6.3,"Diabetic",30,"Obesity",5.2,"Borderline High",2.6,"Mildly Increased",1.2,"Optimal (High Risk)",1.1,"Better",1.2,5.7,69
+751,"F",54,"46-55",8.1,"Diabetic",31,"Obesity",4,"Normal",1.8,"Mildly Increased",1.8,"Optimal (High Risk)",1.7,"Best",1.5,8.7,120
+213,"M",51,"46-55",7.3,"Diabetic",33,"Obesity",3.3,"Normal",2,"Mildly Increased",1.2,"Optimal (High Risk)",1,"Better",0.9,10.4,76
+506,"M",60,"56-65",8.8,"Diabetic",34,"Obesity",4.5,"Normal",2.2,"Mildly Increased",1.4,"Optimal (High Risk)",0.8,"Poor",1.1,4.2,39
+573,"M",60,"56-65",12.7,"Diabetic",36,"Obesity",4.5,"Normal",2.1,"Mildly Increased",1.8,"Optimal (High Risk)",0.9,"Poor",0.9,5.7,74
+473,"M",60,"56-65",10,"Diabetic",33,"Obesity",4.5,"Normal",1.3,"Normal",3,"Near Optimal",0.9,"Poor",0.6,5,55
+560,"M",62,"56-65",12.2,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,5,63
+459,"M",67,"66-80",7.1,"Diabetic",27,"Overweight",3,"Normal",2.2,"Mildly Increased",1.3,"Optimal (High Risk)",0.8,"Poor",1,13.3,107
+643,"M",61,"56-65",9,"Diabetic",35,"Obesity",4.5,"Normal",2.7,"Mildly Increased",1.2,"Optimal (High Risk)",3.8,"Best",1.5,6,72
+663,"F",63,"56-65",8,"Diabetic",33,"Obesity",4.7,"Normal",1.5,"Normal",1.9,"Optimal",1.9,"Best",1.5,7.9,80
+214,"F",55,"46-55",10.4,"Diabetic",28.36,"Overweight",4.7,"Normal",2.5,"Mildly Increased",3.4,"Borderline High",0.2,"Poor",1.1,4.5,34
+324,"F",55,"46-55",12.2,"Diabetic",30,"Obesity",4.8,"Normal",2.1,"Mildly Increased",1,"Optimal (High Risk)",1.8,"Best",0.9,3.9,49
+731,"F",55,"46-55",13.7,"Diabetic",37,"Obesity",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4,56
+223,"M",66,"66-80",11,"Diabetic",26,"Overweight",3.5,"Normal",0.6,"Normal",2.5,"Optimal",0.8,"Poor",0.3,4.6,50
+303,"M",68,"66-80",11.5,"Diabetic",33,"Obesity",4.9,"Normal",2.1,"Mildly Increased",1.8,"Optimal (High Risk)",2.3,"Best",0.8,2.9,35
+567,"F",60,"56-65",7.5,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,5.6,72
+576,"M",66,"66-80",10.1,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,4.1,63
+641,"M",55,"46-55",10.8,"Diabetic",47.75,"Severe Obesity",7.3,"High",1.6,"Normal",5.5,"Very High",1.2,"Better",11.3,3.66,60
+722,"M",55,"46-55",9,"Diabetic",39,"Obesity",3.5,"Normal",0.6,"Normal",2.5,"Optimal",0.8,"Poor",0.3,4.6,50
+568,"M",63,"56-65",7.1,"Diabetic",30,"Obesity",3.6,"Normal",5.1,"Mildly Increased",2.5,"Optimal",0.9,"Poor",0.9,5.9,63
+599,"F",52,"46-55",11.1,"Diabetic",38,"Obesity",4.7,"Normal",0.7,"Normal",1.2,"Optimal (High Risk)",1,"Poor",0.3,6,45
+697,"F",51,"46-55",10.4,"Diabetic",37,"Obesity",4.7,"Normal",2.5,"Mildly Increased",1.1,"Optimal (High Risk)",3.4,"Best",1.5,4.5,34
+531,"M",58,"56-65",10.9,"Diabetic",33,"Obesity",4.8,"Normal",1.6,"Normal",3.1,"Near Optimal",1,"Better",0.7,2,72
+644,"M",55,"46-55",7.7,"Diabetic",37.62,"Obesity",4.1,"Normal",2.03,"Mildly Increased",2.2,"Optimal",1.08,"Better",14,6.66,61
+364,"F",56,"56-65",13.6,"Diabetic",36.6,"Obesity",6.5,"High",4.4,"Mildly Increased",0.75,"Optimal (High Risk)",1.85,"Best",2,2.8,36
+373,"M",56,"56-65",11.5,"Diabetic",31,"Obesity",5.9,"Borderline High",1.7,"Normal",1.04,"Optimal (High Risk)",1.73,"Best",0.7,4.1,51
+388,"M",55,"46-55",9.7,"Diabetic",32,"Obesity",5.3,"Borderline High",3.6,"Mildly Increased",3.1,"Near Optimal",0.7,"Poor",1.6,4,64
+732,"F",54,"46-55",13.8,"Diabetic",26,"Overweight",5,"Normal",1.2,"Normal",0.9,"Optimal (High Risk)",1.6,"Best",1.5,2,37
+745,"M",53,"46-55",11.6,"Diabetic",27,"Overweight",9.1,"High",1.5,"Normal",2.1,"Optimal",1.4,"Better",7,7.5,230
+25,"M",55,"46-55",6.4,"Diabetic",29,"Overweight",4.9,"Normal",1.2,"Normal",3.1,"Near Optimal",1.3,"Better",0.5,8.6,68
+328,"F",61,"56-65",10.6,"Diabetic",28,"Overweight",7.2,"High",4.9,"Mildly Increased",1.4,"Optimal (High Risk)",1.35,"Better",1.5,4.6,40
+607,"M",60,"56-65",11.5,"Diabetic",29,"Overweight",4.1,"Normal",1.4,"Normal",5.1,"Very High",1.8,"Best",0.6,9.6,83
+665,"F",52,"46-55",9,"Diabetic",30,"Obesity",4.6,"Normal",3.1,"Mildly Increased",5,"Very High",1.8,"Best",1.5,4,58
+107,"M",60,"56-65",12.3,"Diabetic",31,"Obesity",4,"Normal",1.9,"Mildly Increased",2.6,"Optimal",0.7,"Poor",0.9,6.4,83
+524,"M",60,"56-65",12.3,"Diabetic",29,"Overweight",4,"Normal",1.9,"Mildly Increased",2.6,"Optimal",0.7,"Poor",0.9,6.4,83
+792,"M",56,"56-65",6.9,"Diabetic",31,"Obesity",4.2,"Normal",2.6,"Mildly Increased",4,"Borderline High",1.8,"Best",1.5,4.2,70
+797,"M",56,"56-65",6.9,"Diabetic",31,"Obesity",4.2,"Normal",2.6,"Mildly Increased",4,"Borderline High",1.8,"Best",1.5,4.2,70
+131,"M",55,"46-55",10,"Diabetic",28,"Overweight",4.9,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Better",0.9,4.4,56
+43,"F",64,"56-65",8,"Diabetic",31,"Obesity",5.6,"Borderline High",2.6,"Mildly Increased",3.8,"Borderline High",0.8,"Poor",1.1,7.1,68
+294,"F",58,"56-65",9.3,"Diabetic",31,"Obesity",5.8,"Borderline High",3.6,"Mildly Increased",1.9,"Optimal",1.1,"Poor",0.6,5,62
+768,"M",59,"56-65",8,"Diabetic",36,"Obesity",5.5,"Borderline High",2.5,"Mildly Increased",3.3,"Near Optimal",1.1,"Better",1.1,3.4,62
+779,"F",54,"46-55",14.6,"Diabetic",33,"Obesity",4,"Normal",1,"Normal",1.3,"Optimal (High Risk)",1.8,"Best",1.5,2.8,22
+77,"M",57,"56-65",13,"Diabetic",35,"Obesity",6.3,"High",7.2,"Moderately Increased",3.3,"Near Optimal",1.2,"Better",2.8,2.5,55
+645,"M",54,"46-55",3,"Diabetic",33,"Obesity",1.2,"Normal",0.7,"Normal",0.5,"Optimal (High Risk)",1,"Better",1.5,5.4,68
+412,"M",55,"46-55",9.6,"Diabetic",32,"Obesity",5.7,"Borderline High",4.5,"Mildly Increased",3,"Near Optimal",1,"Better",2.1,3.8,50
+572,"F",58,"56-65",9.1,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4.3,56
+125,"F",60,"56-65",7.5,"Diabetic",26,"Overweight",4.4,"Normal",2.1,"Mildly Increased",2.5,"Optimal",1.1,"Poor",0.9,5.6,72
+569,"F",60,"56-65",10.5,"Diabetic",39,"Obesity",4.6,"Normal",4,"Mildly Increased",3,"Near Optimal",0.9,"Poor",1.8,3.2,87
+621,"M",55,"46-55",3.7,"Diabetic",35.16,"Obesity",5.7,"Borderline High",1.19,"Normal",4.1,"Borderline High",1.1,"Better",8.1,5,81
+172,"M",60,"56-65",12.3,"Diabetic",38,"Obesity",6.1,"Borderline High",3.8,"Mildly Increased",3.5,"Borderline High",1.1,"Better",1.7,5.1,62
+340,"M",61,"56-65",9.2,"Diabetic",37,"Obesity",6.5,"High",2.4,"Mildly Increased",1.8,"Optimal (High Risk)",1.7,"Best",1.5,6.5,78
+632,"M",55,"46-55",6.8,"Diabetic",27.33,"Overweight",6.12,"Borderline High",3.5,"Mildly Increased",3.6,"Borderline High",1.03,"Better",24.5,4.16,30
+217,"F",59,"56-65",9.3,"Diabetic",31,"Obesity",5.3,"Borderline High",2.7,"Mildly Increased",3.2,"Near Optimal",1,"Poor",1.2,5.7,86
+292,"M",63,"56-65",7.4,"Diabetic",33,"Obesity",4.7,"Normal",2,"Mildly Increased",4.2,"High",1.4,"Better",1.5,7.9,88
+711,"F",55,"46-55",9.3,"Diabetic",32,"Obesity",5.3,"Borderline High",2.7,"Mildly Increased",3.2,"Near Optimal",1,"Poor",1.2,5.7,86
+130,"F",55,"46-55",9.9,"Diabetic",34,"Obesity",5.1,"Normal",4.5,"Mildly Increased",2.7,"Near Optimal",0.6,"Poor",2,4.7,34
+349,"F",58,"56-65",10.1,"Diabetic",30,"Obesity",6.3,"High",2.4,"Mildly Increased",3.8,"Borderline High",1.4,"Better",1.1,2.7,39
+537,"F",55,"46-55",9.9,"Diabetic",31,"Obesity",5.1,"Normal",4.5,"Mildly Increased",2.7,"Near Optimal",0.6,"Poor",2,4.7,34
+795,"F",52,"46-55",9.9,"Diabetic",26,"Overweight",5.1,"Normal",4.5,"Mildly Increased",2.7,"Near Optimal",0.6,"Poor",2,4.7,34
+800,"F",52,"46-55",9.9,"Diabetic",26,"Overweight",5.1,"Normal",4.5,"Mildly Increased",2.7,"Near Optimal",0.6,"Poor",2,4.7,34
+101,"M",51,"46-55",13.7,"Diabetic",27,"Overweight",3.5,"Normal",1,"Normal",1.4,"Optimal (High Risk)",0.9,"Poor",1.5,3.2,61
+391,"F",51,"46-55",9.6,"Diabetic",26,"Overweight",3,"Normal",0.7,"Normal",1.3,"Optimal (High Risk)",1.3,"Better",0.3,2.5,35
+527,"F",55,"46-55",9.4,"Diabetic",29,"Overweight",6.4,"High",4.1,"Mildly Increased",3.5,"Borderline High",1,"Poor",1.9,4,56
+633,"M",54,"46-55",9.2,"Diabetic",30,"Obesity",5.7,"Borderline High",4.2,"Mildly Increased",3.2,"Near Optimal",0.9,"Poor",1.9,4,76
+44,"F",53,"46-55",8,"Diabetic",31,"Obesity",5.7,"Borderline High",4.2,"Mildly Increased",1.6,"Optimal (High Risk)",0.9,"Poor",1.9,4.2,39
+579,"M",61,"56-65",9,"Diabetic",36,"Obesity",2.9,"Normal",0.7,"Normal",1.6,"Optimal (High Risk)",1,"Better",0.3,7.2,75
+26,"M",60,"56-65",7.6,"Diabetic",33,"Obesity",4.6,"Normal",4.6,"Mildly Increased",2.7,"Near Optimal",0.6,"Poor",1.4,7.5,83
+571,"M",52,"46-55",10.5,"Diabetic",35,"Obesity",3,"Normal",1.5,"Normal",2.2,"Optimal",0.6,"Poor",0.7,7.5,90
+433,"M",59,"56-65",9.8,"Diabetic",30,"Obesity",5.2,"Borderline High",3.4,"Mildly Increased",1.45,"Optimal (High Risk)",1.35,"Better",1.3,5.3,70
+454,"F",52,"46-55",12.8,"Diabetic",36.6,"Obesity",4.8,"Normal",4,"Mildly Increased",2.1,"Optimal",1.1,"Poor",1.8,2.8,35
+199,"F",68,"66-80",11.9,"Diabetic",30,"Obesity",4,"Normal",1.1,"Normal",1.1,"Optimal (High Risk)",2.3,"Best",0.5,4.2,41
+639,"F",59,"56-65",11.9,"Diabetic",39,"Obesity",4,"Normal",1.1,"Normal",1.1,"Optimal (High Risk)",2.3,"Best",0.5,4.2,41
+229,"F",64,"56-65",11.8,"Diabetic",30,"Obesity",6.7,"High",2,"Mildly Increased",5,"Very High",0.9,"Poor",0.9,2.2,89
+400,"M",54,"46-55",11.3,"Diabetic",38,"Obesity",5.3,"Borderline High",7.7,"Moderately Increased",1.5,"Optimal (High Risk)",0.7,"Poor",3.5,4,55
+713,"M",57,"56-65",12.3,"Diabetic",37,"Obesity",3.1,"Normal",1.6,"Normal",0.95,"Optimal (High Risk)",1.7,"Best",1.5,1.1,27
+728,"F",54,"46-55",11.8,"Diabetic",33,"Obesity",6.7,"High",2,"Mildly Increased",5,"Very High",0.9,"Poor",0.9,2.2,29
+193,"F",55,"46-55",11.2,"Diabetic",32,"Obesity",2.4,"Normal",1.3,"Normal",1.4,"Optimal (High Risk)",0.4,"Poor",0.6,6,43
+274,"F",55,"46-55",14.5,"Diabetic",26,"Overweight",5.3,"Borderline High",1.5,"Normal",3.9,"Borderline High",0.7,"Poor",0.7,3.5,32
+442,"M",55,"46-55",11.2,"Diabetic",30,"Obesity",5.1,"Normal",3.5,"Mildly Increased",1.8,"Optimal (High Risk)",1.7,"Best",1.6,4.6,48
+455,"M",60,"56-65",8.5,"Diabetic",32,"Obesity",5.8,"Borderline High",2.9,"Mildly Increased",3,"Near Optimal",0.4,"Poor",1.6,6.2,35
+457,"M",51,"46-55",13.9,"Diabetic",27.17,"Overweight",6,"Borderline High",1.1,"Normal",1.3,"Optimal (High Risk)",1.4,"Better",0.4,3.3,41
+619,"F",60,"56-65",11.2,"Diabetic",26,"Overweight",2.4,"Normal",1.3,"Normal",1.4,"Optimal (High Risk)",0.4,"Poor",0.6,6.6,43
+627,"M",55,"46-55",12.3,"Diabetic",37,"Obesity",6,"Borderline High",3.9,"Mildly Increased",3.7,"Borderline High",0.8,"Poor",27.2,5,64
+765,"F",61,"56-65",14.5,"Diabetic",27,"Overweight",5.3,"Borderline High",1.5,"Normal",3.9,"Borderline High",0.7,"Poor",0.7,3.5,32
+551,"M",63,"56-65",10.1,"Diabetic",28,"Overweight",5.9,"Borderline High",3.1,"Mildly Increased",2.6,"Optimal",1.1,"Better",1.4,3.5,54
+124,"M",55,"46-55",10.5,"Diabetic",32,"Obesity",5.6,"Borderline High",5.5,"Mildly Increased",2.6,"Optimal",0.7,"Poor",2.5,5.3,49
+331,"F",55,"46-55",8.8,"Diabetic",26,"Overweight",4.5,"Normal",1.4,"Normal",2.1,"Optimal",1.9,"Best",0.6,5.3,33
+343,"F",55,"46-55",12.4,"Diabetic",29,"Overweight",4.3,"Normal",2.4,"Mildly Increased",1.3,"Optimal (High Risk)",1.8,"Best",1.5,2.4,36
+535,"M",55,"46-55",10.5,"Diabetic",27.4,"Overweight",5.6,"Borderline High",5.5,"Mildly Increased",2.6,"Optimal",0.7,"Poor",2.5,5.3,49
+756,"M",52,"46-55",10.5,"Diabetic",30,"Obesity",5.7,"Borderline High",3.6,"Mildly Increased",1.7,"Optimal (High Risk)",1,"Better",2,6,72
+786,"M",51,"46-55",10.5,"Diabetic",31,"Obesity",5.6,"Borderline High",5.5,"Mildly Increased",2.6,"Optimal",0.7,"Poor",2,5.3,49
+283,"M",57,"56-65",11.9,"Diabetic",31,"Obesity",5.4,"Borderline High",1.5,"Normal",3.7,"Borderline High",1.1,"Better",0.7,3.6,56
+471,"F",58,"56-65",10.7,"Diabetic",36,"Obesity",4.2,"Normal",0.5,"Normal",3.1,"Near Optimal",0.9,"Poor",0.2,3.7,36
+479,"M",55,"46-55",10.3,"Diabetic",33,"Obesity",9.7,"High",12.7,"Very High",3,"Near Optimal",0.9,"Poor",5.8,3.5,76
+545,"F",54,"46-55",10.8,"Diabetic",35,"Obesity",3.7,"Normal",3.1,"Mildly Increased",2,"Optimal",1.2,"Poor",1.4,9,70
+253,"M",61,"56-65",10.1,"Diabetic",39,"Obesity",5.1,"Normal",1.4,"Normal",5.6,"Very High",0.9,"Poor",2,3.6,67
+148,"F",60,"56-65",12.3,"Diabetic",38,"Obesity",4.6,"Normal",2.3,"Mildly Increased",3.6,"Borderline High",0.9,"Poor",2,4.4,49
+548,"F",60,"56-65",13.1,"Diabetic",29,"Overweight",4.4,"Normal",2,"Mildly Increased",2.5,"Optimal",1,"Poor",0.9,4.1,56
+250,"F",52,"46-55",10,"Diabetic",37,"Obesity",5.4,"Borderline High",2.1,"Mildly Increased",0.9,"Optimal (High Risk)",0.9,"Poor",2,2.6,30
+379,"M",55,"46-55",10.5,"Diabetic",30,"Obesity",4.6,"Normal",1.5,"Normal",2.1,"Optimal",0.8,"Poor",0.6,5.1,61
+414,"M",56,"56-65",10.8,"Diabetic",33,"Obesity",3.4,"Normal",2,"Mildly Increased",2,"Optimal",0.7,"Poor",0.8,4.6,55
+583,"F",59,"56-65",11.6,"Diabetic",32,"Obesity",6.3,"High",4.4,"Mildly Increased",0.8,"Optimal (High Risk)",0.9,"Poor",2,6.2,62
+225,"F",54,"46-55",13.7,"Diabetic",30,"Obesity",6.8,"High",1.7,"Normal",4.7,"High",0.8,"Poor",0.8,2.7,49
+726,"F",54,"46-55",13.7,"Diabetic",26,"Overweight",6.2,"High",1.7,"Normal",4.7,"High",0.8,"Poor",0.8,2.7,49
+370,"F",55,"46-55",12.3,"Diabetic",28,"Overweight",5.3,"Borderline High",1.6,"Normal",1.7,"Optimal (High Risk)",1.45,"Better",0.7,3.1,39
+114,"M",55,"46-55",10.2,"Diabetic",32,"Obesity",3.9,"Normal",0.6,"Normal",2.3,"Optimal",1.3,"Better",0.3,4.9,33
+489,"F",57,"56-65",8.9,"Diabetic",27,"Overweight",5.2,"Borderline High",1.1,"Normal",3.7,"Borderline High",1,"Poor",0.5,2.1,44
+529,"M",55,"46-55",10.2,"Diabetic",27,"Overweight",3.9,"Normal",0.6,"Normal",2.3,"Optimal",1.3,"Better",0.3,4.9,33
+547,"M",60,"56-65",11.2,"Diabetic",26,"Overweight",6,"Borderline High",2.9,"Mildly Increased",3.8,"Borderline High",1,"Better",1.3,5.4,68
+764,"M",54,"46-55",10.5,"Diabetic",28,"Overweight",4.3,"Normal",2.4,"Mildly Increased",1.7,"Optimal (High Risk)",1.6,"Best",2,4.5,70
+780,"M",60,"56-65",10.2,"Diabetic",29,"Overweight",3.9,"Normal",0.6,"Normal",2.3,"Optimal",1.3,"Better",0.3,4.9,33
+525,"F",60,"56-65",12.3,"Diabetic",30,"Obesity",6.2,"High",5.8,"Moderately Increased",3,"Near Optimal",1,"Poor",2,2.1,34
+226,"F",61,"56-65",13.6,"Diabetic",31,"Obesity",6.6,"High",2.6,"Mildly Increased",4.4,"High",1.1,"Poor",1.1,7.1,45
+523,"F",63,"56-65",11.2,"Diabetic",36,"Obesity",4.2,"Normal",1.1,"Normal",1.4,"Optimal (High Risk)",1.7,"Best",2,2.8,54
+115,"M",55,"46-55",9.7,"Diabetic",33,"Obesity",3.2,"Normal",1.4,"Normal",3,"Near Optimal",1,"Better",2,5.1,71
+256,"M",55,"46-55",13.2,"Diabetic",34,"Obesity",3.9,"Normal",1.3,"Normal",1.7,"Optimal (High Risk)",1.6,"Best",0.6,4.4,38
+743,"M",52,"46-55",13.2,"Diabetic",35,"Obesity",3.9,"Normal",1.3,"Normal",1.7,"Optimal (High Risk)",1.6,"Best",0.6,4.4,38
+319,"M",55,"46-55",9.8,"Diabetic",31.5,"Obesity",5.8,"Borderline High",7.7,"Moderately Increased",0.9,"Optimal (High Risk)",1.8,"Best",3.5,3.7,71
+424,"M",51,"46-55",12.5,"Diabetic",33,"Obesity",3.2,"Normal",0.9,"Normal",2.8,"Near Optimal",1,"Better",2,4.9,72
+485,"F",58,"56-65",10.6,"Diabetic",39,"Obesity",5.4,"Borderline High",4.7,"Mildly Increased",2.2,"Optimal",1.1,"Poor",2.1,3.1,36
+689,"M",55,"46-55",15.9,"Diabetic",38,"Obesity",4.2,"Normal",1.2,"Normal",3,"Near Optimal",1.4,"Better",2,5.1,39
+770,"M",54,"46-55",10,"Diabetic",37,"Obesity",4.4,"Normal",1.3,"Normal",1,"Optimal (High Risk)",1.4,"Better",2,10.4,126
+50,"M",53,"46-55",11,"Diabetic",33,"Obesity",5.9,"Borderline High",8.7,"Moderately Increased",3,"Near Optimal",1,"Better",3.4,14.9,327
+301,"F",60,"56-65",14.8,"Diabetic",32,"Obesity",3.1,"Normal",2.2,"Mildly Increased",1.4,"Optimal (High Risk)",1.3,"Better",1,5,60
+367,"M",61,"56-65",9.2,"Diabetic",32,"Obesity",5.5,"Borderline High",3,"Mildly Increased",1.7,"Optimal (High Risk)",1.6,"Best",0.8,5.5,70
+304,"F",60,"56-65",14.4,"Diabetic",26,"Overweight",6.8,"High",2.9,"Mildly Increased",0.9,"Optimal (High Risk)",1,"Poor",1.6,4.5,57
+785,"M",52,"46-55",11.7,"Diabetic",27,"Overweight",7,"High",8.5,"Moderately Increased",1.4,"Optimal (High Risk)",1.6,"Best",2,3.9,74
+207,"F",64,"56-65",15,"Diabetic",32,"Obesity",7.7,"High",4.7,"Mildly Increased",5,"Very High",0.7,"Poor",2.1,3.6,48
+637,"M",55,"46-55",10.5,"Diabetic",32.65,"Obesity",5.7,"Borderline High",1.3,"Normal",3.6,"Borderline High",1.5,"Better",9,4.33,44
+691,"F",56,"56-65",15,"Diabetic",28,"Overweight",7.7,"High",4.7,"Mildly Increased",2.1,"Optimal",5,"Best",2,3.6,48
+533,"F",59,"56-65",14.6,"Diabetic",29,"Overweight",6.1,"Borderline High",4.4,"Mildly Increased",1.3,"Optimal (High Risk)",1.2,"Poor",2,6,28
+625,"M",54,"46-55",10.3,"Diabetic",30,"Obesity",5,"Normal",3.2,"Mildly Increased",1.7,"Optimal (High Risk)",1.8,"Best",2,2.9,79
+733,"F",57,"56-65",10.2,"Diabetic",31,"Obesity",5.5,"Borderline High",1.1,"Normal",1.7,"Optimal (High Risk)",1.4,"Better",2,4.3,41
+40,"M",55,"46-55",10.3,"Diabetic",29,"Overweight",7.3,"High",4.6,"Mildly Increased",1.4,"Optimal (High Risk)",1.3,"Better",0.7,4.1,58
+35,"M",55,"46-55",7.8,"Diabetic",33,"Obesity",3.8,"Normal",0.9,"Normal",1.9,"Optimal",1.5,"Better",0.4,4.7,32
+205,"M",54,"46-55",13.2,"Diabetic",36,"Obesity",9.2,"High",1.2,"Normal",2.4,"Optimal",1.6,"Best",2,4.3,90
+247,"M",60,"56-65",14.1,"Diabetic",33,"Obesity",4.1,"Normal",1.3,"Normal",3.6,"Borderline High",1.8,"Best",2,4,78
+169,"M",55,"46-55",10.2,"Diabetic",31,"Obesity",4.3,"Normal",3.3,"Mildly Increased",2.4,"Optimal",0.6,"Poor",1.5,3.8,66
+497,"M",60,"56-65",11,"Diabetic",35,"Obesity",3.8,"Normal",0.7,"Normal",2.8,"Near Optimal",0.7,"Poor",0.3,4.1,78
+313,"M",61,"56-65",9.4,"Diabetic",33,"Obesity",3.7,"Normal",1.5,"Normal",4.6,"High",0.7,"Poor",2,4.1,57
+605,"F",63,"56-65",11.6,"Diabetic",39,"Obesity",8.1,"High",2.7,"Mildly Increased",4.1,"Borderline High",0.7,"Poor",1.2,6.4,59
+611,"M",55,"46-55",8.3,"Diabetic",38,"Obesity",5.7,"Borderline High",2.6,"Mildly Increased",4.1,"Borderline High",0.7,"Poor",1.1,9,66
+211,"M",55,"46-55",12.2,"Diabetic",25.6,"Overweight",5.7,"Borderline High",3.5,"Mildly Increased",3.6,"Borderline High",0.7,"Poor",1.6,4.7,53
+693,"M",52,"46-55",12.2,"Diabetic",37,"Obesity",5.7,"Borderline High",3.5,"Mildly Increased",1.6,"Optimal (High Risk)",3.6,"Best",1,4.7,53
+277,"F",68,"66-80",8.2,"Diabetic",26,"Overweight",8,"High",4.8,"Mildly Increased",4.8,"High",1.3,"Better",2.2,6.1,49
+461,"F",69,"66-80",8.2,"Diabetic",34,"Obesity",8,"High",4.8,"Mildly Increased",4.8,"High",1.3,"Better",2.2,6.1,49
+322,"F",55,"46-55",10.6,"Diabetic",29,"Overweight",6.6,"High",4.1,"Mildly Increased",1.3,"Optimal (High Risk)",1.8,"Best",1.8,4.3,57
+208,"M",58,"56-65",11.2,"Diabetic",32,"Obesity",4.8,"Normal",1.4,"Normal",1.3,"Optimal (High Risk)",1.8,"Best",1,3.4,48
+760,"M",55,"46-55",12.2,"Diabetic",26,"Overweight",6.9,"High",4.5,"Mildly Increased",1.4,"Optimal (High Risk)",1.3,"Better",1,7.1,72
+325,"F",54,"46-55",12.4,"Diabetic",27,"Overweight",5.5,"Borderline High",1.3,"Normal",1.7,"Optimal (High Risk)",1.6,"Best",1.9,5.9,74
+543,"M",53,"46-55",10.9,"Diabetic",28,"Overweight",5.1,"Normal",3.2,"Mildly Increased",2,"Optimal",1.8,"Best",1,3.8,59
+436,"M",52,"46-55",13.2,"Diabetic",29,"Overweight",4.9,"Normal",2.2,"Mildly Increased",2.7,"Near Optimal",1.2,"Better",1,5.5,62
+519,"F",60,"56-65",12,"Diabetic",30,"Obesity",5,"Normal",3.9,"Mildly Increased",2.4,"Optimal",1.1,"Poor",1.7,4.6,47
+418,"F",56,"56-65",12,"Diabetic",36.6,"Obesity",5,"Normal",3.9,"Mildly Increased",2.4,"Optimal",1.1,"Poor",1.7,4.6,47
+491,"F",67,"66-80",14.7,"Diabetic",31,"Obesity",5.8,"Borderline High",1.8,"Mildly Increased",3.9,"Borderline High",1.1,"Poor",0.8,5.3,72
+415,"M",55,"46-55",10.7,"Diabetic",30,"Obesity",3.6,"Normal",1.2,"Normal",1.7,"Optimal (High Risk)",1.4,"Better",0.5,3.9,51
+515,"M",68,"66-80",10.7,"Diabetic",36,"Obesity",3.6,"Normal",1.2,"Normal",1.7,"Optimal (High Risk)",1.4,"Better",0.5,3.9,51
+781,"M",61,"56-65",9.1,"Diabetic",33,"Obesity",6.5,"High",1.5,"Normal",0.9,"Optimal (High Risk)",1.4,"Better",0.5,7.2,78
+671,"M",31,"26-35",12.3,"Diabetic",37.2,"Obesity",4.1,"Normal",2.2,"Mildly Increased",2.4,"Optimal",0.7,"Poor",15.4,3,60
+669,"M",30,"26-35",6.7,"Diabetic",27.4,"Overweight",4.1,"Normal",1.1,"Normal",2.4,"Optimal",1.2,"Better",8.1,7.1,81
+248,"M",54,"46-55",6.9,"Diabetic",33,"Obesity",3.8,"Normal",1.7,"Normal",3,"Near Optimal",NA,NA,0.7,5,67

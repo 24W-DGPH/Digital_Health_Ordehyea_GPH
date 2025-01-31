@@ -5,6 +5,8 @@
 
 # Install and Load Packages into R-----------
 install.packages("pacman")
+install.packages('rsconnect')
+
 # load packages
 pacman::p_load(
   tidyverse,         # data management
@@ -17,6 +19,11 @@ pacman::p_load(
 skimr # preview tibbles(aka data frames)
 install.packages('styler')
 library(dplyr)
+library(rio)
+library(ggplot2)
+
+#KINDLY LOAD THE ABOVE PACKAGES IN THE PACKAGE SECTION INCASE OF ERROR......
+
 
 # Import Data -------------------------
 diabetes_unclean <- import('diabetes_unclean.csv')
@@ -185,7 +192,9 @@ ggplot(data = diabetes_clean, aes(x = BMI_group, fill = Diabetes_status)) +
     fill = "Diabetes status"
   ) +
   scale_y_continuous(labels = scales::percent_format()) +
-  theme_minimal() +
+  theme_minimal() + 
+  scale_fill_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "orange", "Diabetic" = "red"))
+
   
 
 # Bar chart of BMI_group by Gender
@@ -198,7 +207,7 @@ ggplot(data = diabetes_clean, aes(x = BMI_group, fill = Gender)) +
     fill = "Gender"
   ) +
   theme_minimal() +
-  scale_fill_manual(values = c("M" = "blue", "F" = "pink"))
+  scale_fill_manual(values = c("M" = "blue", "F" = "yellow"))
 
 
 # Bar chart of LDL_group by Diabetes_status
@@ -227,7 +236,31 @@ ggplot(data = diabetes_clean, aes(x = Diabetes_status, y = Age_years, color
   scale_color_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "yellow", "Diabetic" = "red"))
 
 
+# Bar plot of Cholesterol Categories by Diabetes status
+ggplot(data = diabetes_clean, aes(x = Cholesterol_group, fill = Diabetes_status)) +
+  geom_bar(position = "dodge") +
+  labs(
+    title = "Counts of Cholesterol Categories by Diabetes status",
+    x = "Cholesterol Group",
+    y = "Count",
+    fill = "Diabetes status"
+  ) +
+  theme_minimal() +
+  scale_fill_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "orange", "Diabetic" = "red"))
 
+
+# Stacked Bar Plot: Diabetes status by Gender
+ggplot(data = diabetes_clean, aes(x = Gender, fill = Diabetes_status)) +
+  geom_bar(position = "fill") +  # Proportions (stacked)
+  labs(
+    title = "Proportion of Diabetes Status by Gender",
+    x = "Gender",
+    y = "Proportion",
+    fill = "Diabetes status"
+  ) +
+  scale_y_continuous(labels = scales::percent_format()) +  # Convert y-axis to percentages
+  scale_fill_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "orange", "Diabetic" = "red")) +
+  theme_minimal()
 
 
 

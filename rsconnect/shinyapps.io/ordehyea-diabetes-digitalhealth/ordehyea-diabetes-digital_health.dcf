@@ -1,0 +1,13 @@
+name: ordehyea-diabetes-digital_health
+title: ordehyea-diabetes-digital_health
+username: ordehyea-diabetes-digitalhealth
+account: ordehyea-diabetes-digitalhealth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13862645
+bundleId: 9725498
+url: https://ordehyea-diabetes-digitalhealth.shinyapps.io/ordehyea-diabetes-digital_health/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: diabetes_unclean.csv|renv.lock

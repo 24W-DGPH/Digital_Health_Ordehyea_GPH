@@ -5,30 +5,28 @@
 # Shiny 
 #Agyeman Serebouh Ordehyea Yaw 
 #Diabetes Visualization Shiny
-# Digital Health 
+# Digital Health
 
+options(repos = c(CRAN = "https://cloud.r-project.org/"))
 
-library(shiny)
 # Load required libraries
 library(shiny)
 library(ggplot2)
 library(dplyr)
-library(DT)  # For rendering DataTable
-library(plotly)
-library(leaflet)
 
-
-diabetes_clean <- read.csv("diabetes_clean.csv")  # Adjust the path accordingly
+# Load the dataset
+ read.csv("diabetes_clean.csv")
 
 # Define UI
 ui <- fluidPage(
   
   # Title of the App
-  titlePanel("Interactive Diabetes Data Visualizations and Comparison"),
+  titlePanel("Interactive Diabetes Data Visualizations"),
   
   # Sidebar layout with input and output definitions
   sidebarLayout(
     sidebarPanel(
+      
       # Dropdown menu to select the visualization
       selectInput("plot_type", 
                   "Select Visualization:", 
@@ -41,7 +39,7 @@ ui <- fluidPage(
                               "Compare Cholesterol vs Age"),
                   selected = "Proportion of Diabetes Status Across BMI Categories"),
       
-      # Sliders for continuous variable comparison
+      # Sliders for filtering data (only when needed)
       conditionalPanel(
         condition = "input.plot_type == 'Compare Age vs BMI'",
         sliderInput("age_slider", "Select Age Range:", 
@@ -71,14 +69,9 @@ ui <- fluidPage(
       )
     ),
     
-    # Main panel to display the outputs
+    # Main panel to display the selected plot
     mainPanel(
-      
-      # Dynamic plot output
-      plotOutput("selected_plot"),
-      
-      # Display a summary table of the dataset
-      DTOutput("summary_table")
+      plotOutput("selected_plot")
     )
   )
 )
@@ -112,109 +105,52 @@ server <- function(input, output) {
     if(input$plot_type == "Proportion of Diabetes Status Across BMI Categories") {
       ggplot(data = diabetes_clean, aes(x = BMI_group, fill = Diabetes_status)) +
         geom_bar(position = "fill") +
-        labs(
-          title = "Proportion of Diabetes Status Across BMI Categories",
-          x = "BMI Group",
-          y = "Proportion",
-          fill = "Diabetes Status"
-        ) +
+        labs(title = "Proportion of Diabetes Status Across BMI Categories",
+             x = "BMI Group", y = "Proportion", fill = "Diabetes Status") +
         scale_y_continuous(labels = scales::percent_format()) +
-        theme_minimal() + 
-        scale_fill_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "orange", "Diabetic" = "red"))
-    }
-    
-    else if(input$plot_type == "Counts of BMI Groups by Gender") {
+        theme_minimal()
+      
+    } else if(input$plot_type == "Counts of BMI Groups by Gender") {
       ggplot(data = diabetes_clean, aes(x = BMI_group, fill = Gender)) +
         geom_bar(position = "dodge") +
-        labs(
-          title = "Counts of BMI Groups by Gender",
-          x = "BMI Group",
-          y = "Count",
-          fill = "Gender"
-        ) +
-        theme_minimal() +
-        scale_fill_manual(values = c("M" = "blue", "F" = "pink"))
-    }
-    
-    else if(input$plot_type == "Counts of LDL Categories by Diabetes Status") {
+        labs(title = "Counts of BMI Groups by Gender", x = "BMI Group", y = "Count", fill = "Gender") +
+        theme_minimal()
+      
+    } else if(input$plot_type == "Counts of LDL Categories by Diabetes Status") {
       ggplot(data = diabetes_clean, aes(x = LDL_group, fill = Diabetes_status)) +
         geom_bar(position = "dodge") +
-        labs(
-          title = "Counts of LDL Categories by Diabetes Status",
-          x = "LDL Group",
-          y = "Count",
-          fill = "Diabetes Status"
-        ) +
-        theme_minimal() +
-        scale_fill_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "orange", "Diabetic" = "red"))
-    }
-    
-    else if(input$plot_type == "Scatter Plot of Age by Diabetes Status") {
+        labs(title = "Counts of LDL Categories by Diabetes Status", x = "LDL Group", y = "Count", fill = "Diabetes Status") +
+        theme_minimal()
+      
+    } else if(input$plot_type == "Scatter Plot of Age by Diabetes Status") {
       ggplot(data = diabetes_clean, aes(x = Diabetes_status, y = Age_years, color = Diabetes_status)) +
         geom_jitter(width = 0.2, alpha = 0.7) +
-        labs(
-          title = "Scatter Plot of Age by Diabetes Status",
-          x = "Diabetes Status",
-          y = "Age (Years)",
-          color = "Diabetes Status"
-        ) +
-        theme_minimal() +
-        scale_color_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "yellow", "Diabetic" = "red"))
-    }
-    
-    else if(input$plot_type == "Counts of Cholesterol Categories by Diabetes Status") {
+        labs(title = "Scatter Plot of Age by Diabetes Status", x = "Diabetes Status", y = "Age (Years)", color = "Diabetes Status") +
+        theme_minimal()
+      
+    } else if(input$plot_type == "Counts of Cholesterol Categories by Diabetes Status") {
       ggplot(data = diabetes_clean, aes(x = Cholesterol_group, fill = Diabetes_status)) +
         geom_bar(position = "dodge") +
-        labs(
-          title = "Counts of Cholesterol Categories by Diabetes Status",
-          x = "Cholesterol Group",
-          y = "Count",
-          fill = "Diabetes Status"
-        ) +
-        theme_minimal() +
-        scale_fill_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "orange", "Diabetic" = "red"))
+        labs(title = "Counts of Cholesterol Categories by Diabetes Status", x = "Cholesterol Group", y = "Count", fill = "Diabetes Status") +
+        theme_minimal()
+      
+    } else if(input$plot_type == "Compare Age vs BMI") {
+      ggplot(data = filtered_data(), aes(x = Age_years, y = BMI, color = Diabetes_status)) +
+        geom_point() +
+        labs(title = "Age vs BMI Comparison", x = "Age (Years)", y = "BMI", color = "Diabetes Status") +
+        theme_minimal()
+      
+    } else if(input$plot_type == "Compare Cholesterol vs Age") {
+      ggplot(data = filtered_data(), aes(x = Age_years, y = Cholesterol, color = Diabetes_status)) +
+        geom_point() +
+        labs(title = "Cholesterol vs Age Comparison", x = "Age (Years)", y = "Cholesterol", color = "Diabetes Status") +
+        theme_minimal()
     }
-    
-    # For "Compare Age vs BMI"
-    else if(input$plot_type == "Compare Age vs BMI") {
-      ggplot(data = filtered_data(), aes(x = Age_years, y = BMI)) +
-        geom_point(aes(color = Diabetes_status)) +
-        labs(
-          title = "Age vs BMI Comparison",
-          x = "Age (Years)",
-          y = "BMI",
-          color = "Diabetes Status"
-        ) +
-        theme_minimal() +
-        scale_color_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "orange", "Diabetic" = "red"))
-    }
-    
-    # For "Compare Cholesterol vs Age"
-    else if(input$plot_type == "Compare Cholesterol vs Age") {
-      ggplot(data = filtered_data(), aes(x = Age_years, y = Cholesterol)) +
-        geom_point(aes(color = Diabetes_status)) +
-        labs(
-          title = "Cholesterol vs Age Comparison",
-          x = "Age (Years)",
-          y = "Cholesterol",
-          color = "Diabetes Status"
-        ) +
-        theme_minimal() +
-        scale_color_manual(values = c("Non-Diabetic" = "blue", "Pre-Diabetic" = "orange", "Diabetic" = "red"))
-    }
-  })
-  
-  # Summary Table of the dataset
-  output$summary_table <- renderDT({
-    # Display a summary of the filtered dataset as a table
-    datatable(filtered_data(), options = list(pageLength = 10))
   })
 }
 
 # Run the application
 shinyApp(ui = ui, server = server)
-
-
 
            
 
